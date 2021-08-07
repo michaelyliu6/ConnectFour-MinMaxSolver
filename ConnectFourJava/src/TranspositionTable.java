@@ -33,4 +33,9 @@ public class TranspositionTable {
     public int index(long key) {
         return Math.toIntExact(key%(table.length));
     }
+
+    public static void main(String args[]) {
+        int a = 1;
+        System.out.println(-a);
+    }
 }

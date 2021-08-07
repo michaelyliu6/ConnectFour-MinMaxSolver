@@ -1,1000 +1,6003 @@
+Test Number: 1
 5554224333234511764415115 4
+Solver Output: 4
+Nodes Explored: 168
+Time expended:  4 millieconds
+
+Test Number: 2
 52753311433677442422121 8
+Solver Output: 8
+Nodes Explored: 44
+Time expended:  1 millieconds
+
+Test Number: 3
 1233722555341451114725221333 -1
+Solver Output: -1
+Nodes Explored: 1243
+Time expended:  2 millieconds
+
+Test Number: 4
 271713432331713132 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 5
 6672375354252731116762237724 -2
+Solver Output: -2
+Nodes Explored: 337
+Time expended:  0 millieconds
+
+Test Number: 6
 763452543756455357732314 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 7
 662222576343651642712157 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 8
 3455565261655364217 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 9
 4661237137541742643224 8
+Solver Output: 8
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 10
 21253774536432517717274325 2
+Solver Output: 2
+Nodes Explored: 447
+Time expended:  0 millieconds
+
+Test Number: 11
 715371563635542612576371 3
+Solver Output: 3
+Nodes Explored: 3206
+Time expended:  1 millieconds
+
+Test Number: 12
 4435612735531457155143 -5
+Solver Output: -5
+Nodes Explored: 349
+Time expended:  0 millieconds
+
+Test Number: 13
 3457741246677474572223453551 5
+Solver Output: 5
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 14
 754732466173162124726115261 7
+Solver Output: 7
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 15
 64115442265757253615 10
+Solver Output: 10
+Nodes Explored: 20
+Time expended:  0 millieconds
+
+Test Number: 16
 34651743747475571565 -9
+Solver Output: -9
+Nodes Explored: 27
+Time expended:  0 millieconds
+
+Test Number: 17
 36127316172165452675422251 7
+Solver Output: 7
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 18
 4235245615377275211512 -7
+Solver Output: -7
+Nodes Explored: 46
+Time expended:  0 millieconds
+
+Test Number: 19
 122435527534575161761 10
+Solver Output: 10
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 20
 473175162213611457122724 -7
+Solver Output: -7
+Nodes Explored: 43
+Time expended:  0 millieconds
+
+Test Number: 21
 5533212164224336233241461 3
+Solver Output: 3
+Nodes Explored: 195
+Time expended:  0 millieconds
+
+Test Number: 22
 1231426213112346726266353 -7
+Solver Output: -7
+Nodes Explored: 20
+Time expended:  0 millieconds
+
+Test Number: 23
 45277231624411643516213 8
+Solver Output: 8
+Nodes Explored: 18
+Time expended:  0 millieconds
+
+Test Number: 24
 1667675535724753771415352132 1
+Solver Output: 1
+Nodes Explored: 1241
+Time expended:  0 millieconds
+
+Test Number: 25
 41416453222527221644 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 26
 1715764132212113656454 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 27
 651142666562345525716135112 2
+Solver Output: 2
+Nodes Explored: 290
+Time expended:  0 millieconds
+
+Test Number: 28
 7532455277545526 -10
+Solver Output: -10
+Nodes Explored: 59
+Time expended:  0 millieconds
+
+Test Number: 29
 2737772244262123677516643354 0
+Solver Output: 0
+Nodes Explored: 730
+Time expended:  0 millieconds
+
+Test Number: 30
 5746741223753516274755 8
+Solver Output: 8
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 31
 736655673445166272447546 -7
+Solver Output: -7
+Nodes Explored: 60
+Time expended:  0 millieconds
+
+Test Number: 32
 5237261635627332664143376 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 33
 5617131757733341415 -8
+Solver Output: -8
+Nodes Explored: 825
+Time expended:  1 millieconds
+
+Test Number: 34
 6561461362133747245312317267 0
+Solver Output: 0
+Nodes Explored: 1026
+Time expended:  0 millieconds
+
+Test Number: 35
 3111642212167362762555645527 -2
+Solver Output: -2
+Nodes Explored: 366
+Time expended:  1 millieconds
+
+Test Number: 36
 46212622667241121631756 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 37
 47611556754127222 12
+Solver Output: 12
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 38
 3262221111647466 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 39
 7722654117336331661371176 7
+Solver Output: 7
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 40
 3237735666151513515634 -7
+Solver Output: -7
+Nodes Explored: 615
+Time expended:  0 millieconds
+
+Test Number: 41
 71521736623715176174362 -8
+Solver Output: -8
+Nodes Explored: 613
+Time expended:  0 millieconds
+
+Test Number: 42
 544111732146347 -9
+Solver Output: -9
+Nodes Explored: 137
+Time expended:  0 millieconds
+
+Test Number: 43
 47724652442416755146 8
+Solver Output: 8
+Nodes Explored: 25
+Time expended:  0 millieconds
+
+Test Number: 44
 54527613337336351111622 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 45
 35531254275547623 -9
+Solver Output: -9
+Nodes Explored: 1087
+Time expended:  0 millieconds
+
+Test Number: 46
 16773414341241421774376322 -5
+Solver Output: -5
+Nodes Explored: 452
+Time expended:  0 millieconds
+
+Test Number: 47
 175617344365477255 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 48
 411717625255115123554 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 49
 13227167421566572721 -9
+Solver Output: -9
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 50
 1456346777667336372 11
+Solver Output: 11
+Nodes Explored: 21
+Time expended:  0 millieconds
+
+Test Number: 51
 3464123621337153667644637227 2
+Solver Output: 2
+Nodes Explored: 311
+Time expended:  0 millieconds
+
+Test Number: 52
 31266511114762722166672 -3
+Solver Output: -3
+Nodes Explored: 516
+Time expended:  0 millieconds
+
+Test Number: 53
 137616613112365341 6
+Solver Output: 6
+Nodes Explored: 814
+Time expended:  0 millieconds
+
+Test Number: 54
 6237377156733264225773 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 55
 55371476331451637535 10
+Solver Output: 10
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 56
 615475226615213226217557 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 57
 5127773675347376151 10
+Solver Output: 10
+Nodes Explored: 30
+Time expended:  0 millieconds
+
+Test Number: 58
 7717464322265274226441151 3
+Solver Output: 3
+Nodes Explored: 1450
+Time expended:  1 millieconds
+
+Test Number: 59
 55772343111646575236 5
+Solver Output: 5
+Nodes Explored: 293
+Time expended:  0 millieconds
+
+Test Number: 60
 72276133256716235275764 7
+Solver Output: 7
+Nodes Explored: 151
+Time expended:  0 millieconds
+
+Test Number: 61
 65452257612667655615271112 -4
+Solver Output: -4
+Nodes Explored: 120
+Time expended:  0 millieconds
+
+Test Number: 62
 2577525532532441626 -9
+Solver Output: -9
+Nodes Explored: 56
+Time expended:  0 millieconds
+
+Test Number: 63
 35653272262316437167672 -3
+Solver Output: -3
+Nodes Explored: 1289
+Time expended:  1 millieconds
+
+Test Number: 64
 1243234332773245342572475767 5
+Solver Output: 5
+Nodes Explored: 31
+Time expended:  0 millieconds
+
+Test Number: 65
 7535125153114313 -11
+Solver Output: -11
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 66
 253527614166761447574 -6
+Solver Output: -6
+Nodes Explored: 368
+Time expended:  1 millieconds
+
+Test Number: 67
 245715112455274665623715716 -2
+Solver Output: -2
+Nodes Explored: 563
+Time expended:  0 millieconds
+
+Test Number: 68
 56222765165254226556673774 7
+Solver Output: 7
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 69
 77426557613323765616122535 2
+Solver Output: 2
+Nodes Explored: 972
+Time expended:  4 millieconds
+
+Test Number: 70
 4644613266742167756722771541 -4
+Solver Output: -4
+Nodes Explored: 264
+Time expended:  0 millieconds
+
+Test Number: 71
 452631744441223222647115 6
+Solver Output: 6
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 72
 6462662734332655671542313 8
+Solver Output: 8
+Nodes Explored: 19
+Time expended:  1 millieconds
+
+Test Number: 73
 4373163754466323 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 74
 45542744735462742 -11
+Solver Output: -11
+Nodes Explored: 20
+Time expended:  0 millieconds
+
+Test Number: 75
 52225553533233247312617 -7
+Solver Output: -7
+Nodes Explored: 92
+Time expended:  0 millieconds
+
+Test Number: 76
 3246237456535345371512 9
+Solver Output: 9
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 77
 212532617775164141 10
+Solver Output: 10
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 78
 67421253275551744225213 8
+Solver Output: 8
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 79
 33313546767235271352 7
+Solver Output: 7
+Nodes Explored: 75
+Time expended:  0 millieconds
+
+Test Number: 80
 411364471753646417433177755 3
+Solver Output: 3
+Nodes Explored: 313
+Time expended:  0 millieconds
+
+Test Number: 81
 1224277247774721613545115 -6
+Solver Output: -6
+Nodes Explored: 90
+Time expended:  1 millieconds
+
+Test Number: 82
 76543123446324223431432127 -2
+Solver Output: -2
+Nodes Explored: 815
+Time expended:  2 millieconds
+
+Test Number: 83
 5165132157277276134227475 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 84
 7646171641443471716532164 -2
+Solver Output: -2
+Nodes Explored: 355
+Time expended:  0 millieconds
+
+Test Number: 85
 27625643743643521753111 8
+Solver Output: 8
+Nodes Explored: 62
+Time expended:  0 millieconds
+
+Test Number: 86
 522264452736756 12
+Solver Output: 12
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 87
 57553212327714336423676622 -2
+Solver Output: -2
+Nodes Explored: 2151
+Time expended:  0 millieconds
+
+Test Number: 88
 553332366276267756111555776 7
+Solver Output: 7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 89
 7725135517613477 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 90
 7555726532567141222715416466 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 91
 734476631737161177341324354 7
+Solver Output: 7
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 92
 62623724435526761122431133 -2
+Solver Output: -2
+Nodes Explored: 421
+Time expended:  0 millieconds
+
+Test Number: 93
 271411161457254361726 -7
+Solver Output: -7
+Nodes Explored: 120
+Time expended:  0 millieconds
+
+Test Number: 94
 7617657562173664715555 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 95
 777322726313643756152546 -3
+Solver Output: -3
+Nodes Explored: 1075
+Time expended:  1 millieconds
+
+Test Number: 96
 16445643742326746657 9
+Solver Output: 9
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 97
 3612577271337526673343274 -4
+Solver Output: -4
+Nodes Explored: 254
+Time expended:  0 millieconds
+
+Test Number: 98
 7125417577721225375266556 7
+Solver Output: 7
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 99
 65644113777615216373313743 7
+Solver Output: 7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 100
 546167317562564251256237162 -5
+Solver Output: -5
+Nodes Explored: 51
+Time expended:  0 millieconds
+
+Test Number: 101
 6673377312746732 -10
+Solver Output: -10
+Nodes Explored: 76
+Time expended:  0 millieconds
+
+Test Number: 102
 4641133162345542 11
+Solver Output: 11
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 103
 5365373625572524614352316 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 104
 657341635416555625471 9
+Solver Output: 9
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 105
 6747357277725656364415 -8
+Solver Output: -8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 106
 757154666551751363272 8
+Solver Output: 8
+Nodes Explored: 134
+Time expended:  1 millieconds
+
+Test Number: 107
 6132623667546521255623127 -2
+Solver Output: -2
+Nodes Explored: 1343
+Time expended:  0 millieconds
+
+Test Number: 108
 315225171236276777666271 6
+Solver Output: 6
+Nodes Explored: 279
+Time expended:  0 millieconds
+
+Test Number: 109
 113422122167672244746117367 2
+Solver Output: 2
+Nodes Explored: 196
+Time expended:  0 millieconds
+
+Test Number: 110
 5347374145757771622512325 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 111
 31124166611476652461 -7
+Solver Output: -7
+Nodes Explored: 348
+Time expended:  0 millieconds
+
+Test Number: 112
 62523333557451566631264 -6
+Solver Output: -6
+Nodes Explored: 570
+Time expended:  0 millieconds
+
+Test Number: 113
 713311533551231314755 10
+Solver Output: 10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 114
 51137351146565342411 -10
+Solver Output: -10
+Nodes Explored: 59
+Time expended:  0 millieconds
+
+Test Number: 115
 3543166713733245231117 -4
+Solver Output: -4
+Nodes Explored: 2494
+Time expended:  1 millieconds
+
+Test Number: 116
 3217735763522667143373 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 117
 6442147133575712244172 -8
+Solver Output: -8
+Nodes Explored: 45
+Time expended:  0 millieconds
+
+Test Number: 118
 22756642677321336736612773 2
+Solver Output: 2
+Nodes Explored: 567
+Time expended:  0 millieconds
+
+Test Number: 119
 67647316672176756255331 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 120
 625162614337765 -11
+Solver Output: -11
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 121
 47254525565152712 8
+Solver Output: 8
+Nodes Explored: 3835
+Time expended:  1 millieconds
+
+Test Number: 122
 446755524273322124445127 3
+Solver Output: 3
+Nodes Explored: 689
+Time expended:  0 millieconds
+
+Test Number: 123
 53337315253236517157261411 2
+Solver Output: 2
+Nodes Explored: 711
+Time expended:  0 millieconds
+
+Test Number: 124
 52126366244377536726 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 125
 5266416344462647 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 126
 7112154467341431 -10
+Solver Output: -10
+Nodes Explored: 51
+Time expended:  0 millieconds
+
+Test Number: 127
 676524651176255741 7
+Solver Output: 7
+Nodes Explored: 1681
+Time expended:  0 millieconds
+
+Test Number: 128
 15721313466562712137 7
+Solver Output: 7
+Nodes Explored: 73
+Time expended:  0 millieconds
+
+Test Number: 129
 71114661511246636 -6
+Solver Output: -6
+Nodes Explored: 2441
+Time expended:  0 millieconds
+
+Test Number: 130
 5641274173637715675655753 -3
+Solver Output: -3
+Nodes Explored: 571
+Time expended:  0 millieconds
+
+Test Number: 131
 65145566762633644215 9
+Solver Output: 9
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 132
 117315167545341124 -10
+Solver Output: -10
+Nodes Explored: 28
+Time expended:  0 millieconds
+
+Test Number: 133
 72572533563327373216 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 134
 1216176353566455625361277537 1
+Solver Output: 1
+Nodes Explored: 658
+Time expended:  0 millieconds
+
+Test Number: 135
 513635225523631475657331 8
+Solver Output: 8
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 136
 5226731653116776772711142 -6
+Solver Output: -6
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 137
 2556551746465373772733636 -3
+Solver Output: -3
+Nodes Explored: 2114
+Time expended:  0 millieconds
+
+Test Number: 138
 166676351322113324621 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 139
 234331235273567223257514116 5
+Solver Output: 5
+Nodes Explored: 70
+Time expended:  0 millieconds
+
+Test Number: 140
 6464223476161123 -10
+Solver Output: -10
+Nodes Explored: 343
+Time expended:  0 millieconds
+
+Test Number: 141
 744756377222471165 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 142
 3374372732172176214213256 -3
+Solver Output: -3
+Nodes Explored: 1283
+Time expended:  0 millieconds
+
+Test Number: 143
 37327525173143631662325662 2
+Solver Output: 2
+Nodes Explored: 630
+Time expended:  0 millieconds
+
+Test Number: 144
 5516724631166275312523525677 -2
+Solver Output: -2
+Nodes Explored: 3216
+Time expended:  1 millieconds
+
+Test Number: 145
 1225772337767151 12
+Solver Output: 12
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 146
 37542511245635225762 10
+Solver Output: 10
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 147
 65313213177411167266555 8
+Solver Output: 8
+Nodes Explored: 25
+Time expended:  0 millieconds
+
+Test Number: 148
 62214763523662142136564 -7
+Solver Output: -7
+Nodes Explored: 160
+Time expended:  0 millieconds
+
+Test Number: 149
 1462571636416267177611 4
+Solver Output: 4
+Nodes Explored: 1330
+Time expended:  0 millieconds
+
+Test Number: 150
 317332211766171563334 -4
+Solver Output: -4
+Nodes Explored: 2021
+Time expended:  1 millieconds
+
+Test Number: 151
 7236227623622346474116546144 0
+Solver Output: 0
+Nodes Explored: 375
+Time expended:  0 millieconds
+
+Test Number: 152
 35674332132366762241632 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 153
 6531112231141276724767552 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 154
 761471225521321 11
+Solver Output: 11
+Nodes Explored: 61
+Time expended:  0 millieconds
+
+Test Number: 155
 136215442375624672646433 -4
+Solver Output: -4
+Nodes Explored: 401
+Time expended:  0 millieconds
+
+Test Number: 156
 552435552666617514721116 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 157
 253377617377674512 -10
+Solver Output: -10
+Nodes Explored: 34
+Time expended:  0 millieconds
+
+Test Number: 158
 1257676743157613416644 8
+Solver Output: 8
+Nodes Explored: 1348
+Time expended:  0 millieconds
+
+Test Number: 159
 76515463143736654125112267 6
+Solver Output: 6
+Nodes Explored: 46
+Time expended:  0 millieconds
+
+Test Number: 160
 225626516711326624 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 161
 1463662446336421315265524145 -2
+Solver Output: -2
+Nodes Explored: 147
+Time expended:  0 millieconds
+
+Test Number: 162
 31761163116675571675647534 -5
+Solver Output: -5
+Nodes Explored: 37
+Time expended:  0 millieconds
+
+Test Number: 163
 5722272622565513454114 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 164
 67774712211136444 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 165
 673777363513616553 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 166
 76351242633547775 -10
+Solver Output: -10
+Nodes Explored: 50
+Time expended:  0 millieconds
+
+Test Number: 167
 1441417214663341566431667 -4
+Solver Output: -4
+Nodes Explored: 153
+Time expended:  0 millieconds
+
+Test Number: 168
 415514133627224473362753153 2
+Solver Output: 2
+Nodes Explored: 1781
+Time expended:  0 millieconds
+
+Test Number: 169
 635476135716273141133365 -7
+Solver Output: -7
+Nodes Explored: 194
+Time expended:  0 millieconds
+
+Test Number: 170
 477144126313426127461 -8
+Solver Output: -8
+Nodes Explored: 85
+Time expended:  0 millieconds
+
+Test Number: 171
 34334747765464734726763 4
+Solver Output: 4
+Nodes Explored: 284
+Time expended:  0 millieconds
+
+Test Number: 172
 346747427467645 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 173
 175475114216753 10
+Solver Output: 10
+Nodes Explored: 424
+Time expended:  0 millieconds
+
+Test Number: 174
 4666145433446767141256217 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 175
 217432442211554112765154263 6
+Solver Output: 6
+Nodes Explored: 64
+Time expended:  0 millieconds
+
+Test Number: 176
 624115772263235661114 10
+Solver Output: 10
+Nodes Explored: 21
+Time expended:  0 millieconds
+
+Test Number: 177
 64241512462236624761276154 3
+Solver Output: 3
+Nodes Explored: 151
+Time expended:  0 millieconds
+
+Test Number: 178
 52211255312133125634616 -4
+Solver Output: -4
+Nodes Explored: 160
+Time expended:  1 millieconds
+
+Test Number: 179
 66771426326433735127 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 180
 33532452223727716571436 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 181
 27347561567762333731456 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 182
 21133461363327566 -10
+Solver Output: -10
+Nodes Explored: 185
+Time expended:  0 millieconds
+
+Test Number: 183
 46252526616224145 12
+Solver Output: 12
+Nodes Explored: 186
+Time expended:  0 millieconds
+
+Test Number: 184
 153313313355666662264221772 -4
+Solver Output: -4
+Nodes Explored: 70
+Time expended:  0 millieconds
+
+Test Number: 185
 67152543366667234631 9
+Solver Output: 9
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 186
 4266771537147151161265456 4
+Solver Output: 4
+Nodes Explored: 1179
+Time expended:  0 millieconds
+
+Test Number: 187
 3672655672677311226162515375 -3
+Solver Output: -3
+Nodes Explored: 131
+Time expended:  0 millieconds
+
+Test Number: 188
 214562532727125124366 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 189
 654242261241325277656 -8
+Solver Output: -8
+Nodes Explored: 27
+Time expended:  0 millieconds
+
+Test Number: 190
 274571537133166 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 191
 2335622656544266 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 192
 47657616177335617 11
+Solver Output: 11
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 193
 66277372515612415714326526 -2
+Solver Output: -2
+Nodes Explored: 1756
+Time expended:  1 millieconds
+
+Test Number: 194
 65447631746633432 9
+Solver Output: 9
+Nodes Explored: 1788
+Time expended:  0 millieconds
+
+Test Number: 195
 61256717161231633364541264 -7
+Solver Output: -7
+Nodes Explored: 61
+Time expended:  0 millieconds
+
+Test Number: 196
 751524275367233 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 197
 27537226473133277457 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 198
 3764775353221216617727 -8
+Solver Output: -8
+Nodes Explored: 45
+Time expended:  0 millieconds
+
+Test Number: 199
 615754153753116622225 9
+Solver Output: 9
+Nodes Explored: 57
+Time expended:  0 millieconds
+
+Test Number: 200
 33753425365763223715716 -7
+Solver Output: -7
+Nodes Explored: 39
+Time expended:  0 millieconds
+
+Test Number: 201
 1727575555222572716342 9
+Solver Output: 9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 202
 74421257271711522275457156 6
+Solver Output: 6
+Nodes Explored: 95
+Time expended:  0 millieconds
+
+Test Number: 203
 3737766255453523326317 -8
+Solver Output: -8
+Nodes Explored: 134
+Time expended:  0 millieconds
+
+Test Number: 204
 557457743533472512474 -4
+Solver Output: -4
+Nodes Explored: 916
+Time expended:  0 millieconds
+
+Test Number: 205
 455376753644775 13
+Solver Output: 13
+Nodes Explored: 1850
+Time expended:  1 millieconds
+
+Test Number: 206
 326157266422225711166176537 -2
+Solver Output: -2
+Nodes Explored: 201
+Time expended:  0 millieconds
+
+Test Number: 207
 576313346257217 -9
+Solver Output: -9
+Nodes Explored: 5443
+Time expended:  1 millieconds
+
+Test Number: 208
 1276412177742154542342 -6
+Solver Output: -6
+Nodes Explored: 690
+Time expended:  0 millieconds
+
+Test Number: 209
 41355575561436112543372 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 210
 4351173431662212533161 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 211
 153231773415115653317 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 212
 5375431675567753127241 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 213
 55236624772647775765656242 4
+Solver Output: 4
+Nodes Explored: 208
+Time expended:  0 millieconds
+
+Test Number: 214
 4337114775151356511763 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 215
 241345732332751277612343 -7
+Solver Output: -7
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 216
 5631251443233752566666522 -3
+Solver Output: -3
+Nodes Explored: 200
+Time expended:  0 millieconds
+
+Test Number: 217
 35177261325521462321147 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 218
 314533115511644325172 7
+Solver Output: 7
+Nodes Explored: 83
+Time expended:  0 millieconds
+
+Test Number: 219
 44623334362541474756531277 7
+Solver Output: 7
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 220
 1236157641351167 12
+Solver Output: 12
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 221
 77767742653371146122163 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 222
 32167663733423531 10
+Solver Output: 10
+Nodes Explored: 65
+Time expended:  0 millieconds
+
+Test Number: 223
 33112517243762366323 7
+Solver Output: 7
+Nodes Explored: 128
+Time expended:  0 millieconds
+
+Test Number: 224
 123614533465354124576755477 -2
+Solver Output: -2
+Nodes Explored: 583
+Time expended:  0 millieconds
+
+Test Number: 225
 62577765264662464354222415 2
+Solver Output: 2
+Nodes Explored: 532
+Time expended:  1 millieconds
+
+Test Number: 226
 716525344326724636641464 -7
+Solver Output: -7
+Nodes Explored: 45
+Time expended:  0 millieconds
+
+Test Number: 227
 3463711275455153263 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 228
 76171237167365516 -9
+Solver Output: -9
+Nodes Explored: 903
+Time expended:  0 millieconds
+
+Test Number: 229
 13517676612754272 -9
+Solver Output: -9
+Nodes Explored: 116
+Time expended:  0 millieconds
+
+Test Number: 230
 3121656677155256652245727 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 231
 6671342317463724221341 -8
+Solver Output: -8
+Nodes Explored: 776
+Time expended:  0 millieconds
+
+Test Number: 232
 74722511513475576 10
+Solver Output: 10
+Nodes Explored: 1022
+Time expended:  0 millieconds
+
+Test Number: 233
 76767233646257435427223 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 234
 3152434513377673741721437 8
+Solver Output: 8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 235
 651625624217441371222 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 236
 1572647636344162125363 -8
+Solver Output: -8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 237
 777536627266251665425543323 -1
+Solver Output: -1
+Nodes Explored: 507
+Time expended:  0 millieconds
+
+Test Number: 238
 174561754244242722567345616 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 239
 4545162252112372421456411 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 240
 62511774563162573 -10
+Solver Output: -10
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 241
 5563232617432661324324 -6
+Solver Output: -6
+Nodes Explored: 522
+Time expended:  0 millieconds
+
+Test Number: 242
 671211264625112535127342 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 243
 131775326121155635 10
+Solver Output: 10
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 244
 6122736774334466 11
+Solver Output: 11
+Nodes Explored: 4863
+Time expended:  2 millieconds
+
+Test Number: 245
 1745422156421455562753734 -5
+Solver Output: -5
+Nodes Explored: 28
+Time expended:  0 millieconds
+
+Test Number: 246
 6325253222325117635317 9
+Solver Output: 9
+Nodes Explored: 46
+Time expended:  0 millieconds
+
+Test Number: 247
 231316746655153 11
+Solver Output: 11
+Nodes Explored: 69
+Time expended:  0 millieconds
+
+Test Number: 248
 43565412612611137127 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 249
 6631316467572263762112 4
+Solver Output: 4
+Nodes Explored: 2623
+Time expended:  0 millieconds
+
+Test Number: 250
 1672663733642175625624 5
+Solver Output: 5
+Nodes Explored: 655
+Time expended:  1 millieconds
+
+Test Number: 251
 527546732264211663334217 7
+Solver Output: 7
+Nodes Explored: 25
+Time expended:  0 millieconds
+
+Test Number: 252
 65524411571346773642 10
+Solver Output: 10
+Nodes Explored: 21
+Time expended:  0 millieconds
+
+Test Number: 253
 352271473763224126765 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 254
 56116666615751757224342522 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 255
 671757717572516436431112455 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 256
 257427522661715735471611166 2
+Solver Output: 2
+Nodes Explored: 1718
+Time expended:  1 millieconds
+
+Test Number: 257
 672542462314425227566655116 -6
+Solver Output: -6
+Nodes Explored: 142
+Time expended:  0 millieconds
+
+Test Number: 258
 63445725523511317471114443 -3
+Solver Output: -3
+Nodes Explored: 666
+Time expended:  0 millieconds
+
+Test Number: 259
 1674425127642611563 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 260
 7264124177352645445455511 8
+Solver Output: 8
+Nodes Explored: 118
+Time expended:  0 millieconds
+
+Test Number: 261
 717136557165661421163724427 7
+Solver Output: 7
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 262
 5751147111313655522373756734 6
+Solver Output: 6
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 263
 62166143351551165412 10
+Solver Output: 10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 264
 2541731227572364 10
+Solver Output: 10
+Nodes Explored: 102
+Time expended:  0 millieconds
+
+Test Number: 265
 7715267571675451 8
+Solver Output: 8
+Nodes Explored: 305
+Time expended:  0 millieconds
+
+Test Number: 266
 2116712115322236 8
+Solver Output: 8
+Nodes Explored: 3759
+Time expended:  1 millieconds
+
+Test Number: 267
 132163523461151135474272234 2
+Solver Output: 2
+Nodes Explored: 224
+Time expended:  0 millieconds
+
+Test Number: 268
 566751176213355261352621 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 269
 1454766773217323 -11
+Solver Output: -11
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 270
 737567457626375167 10
+Solver Output: 10
+Nodes Explored: 78
+Time expended:  0 millieconds
+
+Test Number: 271
 272132777317137311 -8
+Solver Output: -8
+Nodes Explored: 643
+Time expended:  0 millieconds
+
+Test Number: 272
 5471473127636265766153651 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  1 millieconds
+
+Test Number: 273
 43235141376556763511126 -3
+Solver Output: -3
+Nodes Explored: 2307
+Time expended:  0 millieconds
+
+Test Number: 274
 7761255235627741651 9
+Solver Output: 9
+Nodes Explored: 75
+Time expended:  0 millieconds
+
+Test Number: 275
 3166375423263261 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 276
 76461761567743317522656 7
+Solver Output: 7
+Nodes Explored: 115
+Time expended:  0 millieconds
+
+Test Number: 277
 7271123127671772122566466 -5
+Solver Output: -5
+Nodes Explored: 30
+Time expended:  0 millieconds
+
+Test Number: 278
 427225323232646753334 -7
+Solver Output: -7
+Nodes Explored: 224
+Time expended:  0 millieconds
+
+Test Number: 279
 35772754135363337166246715 -3
+Solver Output: -3
+Nodes Explored: 410
+Time expended:  0 millieconds
+
+Test Number: 280
 5442261561712445513215216 -5
+Solver Output: -5
+Nodes Explored: 190
+Time expended:  0 millieconds
+
+Test Number: 281
 56377543127623374272 9
+Solver Output: 9
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 282
 64632371333542212166 8
+Solver Output: 8
+Nodes Explored: 388
+Time expended:  0 millieconds
+
+Test Number: 283
 274163712467424663152275 6
+Solver Output: 6
+Nodes Explored: 110
+Time expended:  0 millieconds
+
+Test Number: 284
 41115254224427567343271245 6
+Solver Output: 6
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 285
 631572522675564 13
+Solver Output: 13
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 286
 214374234352367335546255 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 287
 2345313466774477 11
+Solver Output: 11
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 288
 7562345526246522155126716336 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 289
 451351361757547 -9
+Solver Output: -9
+Nodes Explored: 2704
+Time expended:  1 millieconds
+
+Test Number: 290
 657446631716224611445 -7
+Solver Output: -7
+Nodes Explored: 148
+Time expended:  0 millieconds
+
+Test Number: 291
 642637516112414536232672 7
+Solver Output: 7
+Nodes Explored: 89
+Time expended:  0 millieconds
+
+Test Number: 292
 6746621145113653 11
+Solver Output: 11
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 293
 117565132725373332367257 -7
+Solver Output: -7
+Nodes Explored: 178
+Time expended:  0 millieconds
+
+Test Number: 294
 53565173153713361122316574 3
+Solver Output: 3
+Nodes Explored: 870
+Time expended:  0 millieconds
+
+Test Number: 295
 6237211342355372677176635764 -1
+Solver Output: -1
+Nodes Explored: 556
+Time expended:  0 millieconds
+
+Test Number: 296
 26527763177622757 9
+Solver Output: 9
+Nodes Explored: 3110
+Time expended:  1 millieconds
+
+Test Number: 297
 3521652224746227137556 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 298
 32212455567361153575 10
+Solver Output: 10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 299
 571723733142554614255144743 -2
+Solver Output: -2
+Nodes Explored: 241
+Time expended:  0 millieconds
+
+Test Number: 300
 1761774337227612344154 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 301
 22631275776731721667 -8
+Solver Output: -8
+Nodes Explored: 61
+Time expended:  0 millieconds
+
+Test Number: 302
 3764661236564541716555245331 -5
+Solver Output: -5
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 303
 43656176526175176754774 -6
+Solver Output: -6
+Nodes Explored: 63
+Time expended:  0 millieconds
+
+Test Number: 304
 75775566566233246715634143 -2
+Solver Output: -2
+Nodes Explored: 808
+Time expended:  1 millieconds
+
+Test Number: 305
 516725531135142133346376125 4
+Solver Output: 4
+Nodes Explored: 133
+Time expended:  0 millieconds
+
+Test Number: 306
 5461515637256422331 10
+Solver Output: 10
+Nodes Explored: 1331
+Time expended:  0 millieconds
+
+Test Number: 307
 243676453345127761 11
+Solver Output: 11
+Nodes Explored: 21
+Time expended:  0 millieconds
+
+Test Number: 308
 552272253621317 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 309
 12717372666736667153145 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 310
 52466553571112435 -10
+Solver Output: -10
+Nodes Explored: 21
+Time expended:  0 millieconds
+
+Test Number: 311
 33712472456621324462674 -7
+Solver Output: -7
+Nodes Explored: 76
+Time expended:  0 millieconds
+
+Test Number: 312
 452366522526751765546672 -4
+Solver Output: -4
+Nodes Explored: 600
+Time expended:  0 millieconds
+
+Test Number: 313
 15311751773333543561 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 314
 15365171721131575625 10
+Solver Output: 10
+Nodes Explored: 20
+Time expended:  0 millieconds
+
+Test Number: 315
 5367372637237146 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 316
 27566561137332123 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 317
 76763344647137153316 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 318
 236472222161726 -8
+Solver Output: -8
+Nodes Explored: 7086
+Time expended:  1 millieconds
+
+Test Number: 319
 5276653435665725461165222724 -4
+Solver Output: -4
+Nodes Explored: 83
+Time expended:  0 millieconds
+
+Test Number: 320
 35526131747533355654136767 5
+Solver Output: 5
+Nodes Explored: 83
+Time expended:  0 millieconds
+
+Test Number: 321
 1251211227266116753723435 4
+Solver Output: 4
+Nodes Explored: 429
+Time expended:  0 millieconds
+
+Test Number: 322
 656466147711311636134335 8
+Solver Output: 8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 323
 13526754177255415625 9
+Solver Output: 9
+Nodes Explored: 53
+Time expended:  0 millieconds
+
+Test Number: 324
 64164156564361224776731 -7
+Solver Output: -7
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 325
 34526374776374375371 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 326
 71537134226736252 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 327
 554614441171777213253413745 4
+Solver Output: 4
+Nodes Explored: 226
+Time expended:  0 millieconds
+
+Test Number: 328
 61155524541272735 11
+Solver Output: 11
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 329
 64625444154736261165562 -7
+Solver Output: -7
+Nodes Explored: 97
+Time expended:  0 millieconds
+
+Test Number: 330
 143344155574773553 -8
+Solver Output: -8
+Nodes Explored: 1789
+Time expended:  1 millieconds
+
+Test Number: 331
 422146117344532457 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 332
 576373335611556162765 8
+Solver Output: 8
+Nodes Explored: 134
+Time expended:  0 millieconds
+
+Test Number: 333
 12151643562152353534775 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 334
 111664475267424 -9
+Solver Output: -9
+Nodes Explored: 1976
+Time expended:  1 millieconds
+
+Test Number: 335
 7545616214254652367537357376 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 336
 71627112343522227 -8
+Solver Output: -8
+Nodes Explored: 1495
+Time expended:  0 millieconds
+
+Test Number: 337
 13633551437347572 -6
+Solver Output: -6
+Nodes Explored: 13988
+Time expended:  3 millieconds
+
+Test Number: 338
 4515725625414474654771615772 2
+Solver Output: 2
+Nodes Explored: 165
+Time expended:  0 millieconds
+
+Test Number: 339
 542134767774477236233554221 -5
+Solver Output: -5
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 340
 653374454445376151457752 4
+Solver Output: 4
+Nodes Explored: 194
+Time expended:  0 millieconds
+
+Test Number: 341
 44422224541125425667733615 -4
+Solver Output: -4
+Nodes Explored: 225
+Time expended:  0 millieconds
+
+Test Number: 342
 2513553227135527335262 7
+Solver Output: 7
+Nodes Explored: 71
+Time expended:  0 millieconds
+
+Test Number: 343
 725736672563533666244152 6
+Solver Output: 6
+Nodes Explored: 62
+Time expended:  0 millieconds
+
+Test Number: 344
 673533555541161752762 10
+Solver Output: 10
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 345
 714613617427757763363 10
+Solver Output: 10
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 346
 41355523374151355373 6
+Solver Output: 6
+Nodes Explored: 587
+Time expended:  0 millieconds
+
+Test Number: 347
 2776735234471321 7
+Solver Output: 7
+Nodes Explored: 3164
+Time expended:  1 millieconds
+
+Test Number: 348
 1163366775762751364213557 -2
+Solver Output: -2
+Nodes Explored: 2535
+Time expended:  1 millieconds
+
+Test Number: 349
 7714331351165441454612735457 -2
+Solver Output: -2
+Nodes Explored: 237
+Time expended:  0 millieconds
+
+Test Number: 350
 6172754557553152174422226 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 351
 2576672462527627721117 -5
+Solver Output: -5
+Nodes Explored: 178
+Time expended:  0 millieconds
+
+Test Number: 352
 72352462655576515266236 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 353
 7423547216653427 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 354
 552422714576314453236724 -5
+Solver Output: -5
+Nodes Explored: 381
+Time expended:  0 millieconds
+
+Test Number: 355
 55575442314521147652717741 6
+Solver Output: 6
+Nodes Explored: 133
+Time expended:  0 millieconds
+
+Test Number: 356
 4614725646672422715321763 4
+Solver Output: 4
+Nodes Explored: 322
+Time expended:  1 millieconds
+
+Test Number: 357
 1264537524755243 -8
+Solver Output: -8
+Nodes Explored: 1540
+Time expended:  0 millieconds
+
+Test Number: 358
 521741772613537115 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 359
 47537477126734163711636413 -6
+Solver Output: -6
+Nodes Explored: 37
+Time expended:  0 millieconds
+
+Test Number: 360
 231135572561656671761237762 3
+Solver Output: 3
+Nodes Explored: 427
+Time expended:  0 millieconds
+
+Test Number: 361
 13547614515777224 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 362
 13224213425733743767451124 7
+Solver Output: 7
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 363
 174471432567412474675 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 364
 6363361177611667737171332522 0
+Solver Output: 0
+Nodes Explored: 466
+Time expended:  0 millieconds
+
+Test Number: 365
 637337257725337225324711 -4
+Solver Output: -4
+Nodes Explored: 255
+Time expended:  0 millieconds
+
+Test Number: 366
 4561722226547731671546735125 3
+Solver Output: 3
+Nodes Explored: 412
+Time expended:  0 millieconds
+
+Test Number: 367
 164757716154412622631765 7
+Solver Output: 7
+Nodes Explored: 18
+Time expended:  0 millieconds
+
+Test Number: 368
 4571341457274476 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 369
 215551541524426475231361147 4
+Solver Output: 4
+Nodes Explored: 110
+Time expended:  0 millieconds
+
+Test Number: 370
 354151577524576533141147463 -5
+Solver Output: -5
+Nodes Explored: 212
+Time expended:  0 millieconds
+
+Test Number: 371
 765745224471131366346676 -6
+Solver Output: -6
+Nodes Explored: 53
+Time expended:  0 millieconds
+
+Test Number: 372
 366623531131151274 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 373
 452261517614267754556 9
+Solver Output: 9
+Nodes Explored: 164
+Time expended:  0 millieconds
+
+Test Number: 374
 65115542742611761521556664 -5
+Solver Output: -5
+Nodes Explored: 29
+Time expended:  0 millieconds
+
+Test Number: 375
 5717773334742522 -11
+Solver Output: -11
+Nodes Explored: 4729
+Time expended:  1 millieconds
+
+Test Number: 376
 711523176631346657 10
+Solver Output: 10
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 377
 2167131211375646716755766 -2
+Solver Output: -2
+Nodes Explored: 618
+Time expended:  0 millieconds
+
+Test Number: 378
 4771157465111222122557 -4
+Solver Output: -4
+Nodes Explored: 3520
+Time expended:  1 millieconds
+
+Test Number: 379
 164637774171636644136 -9
+Solver Output: -9
+Nodes Explored: 513
+Time expended:  0 millieconds
+
+Test Number: 380
 576735132233641141312615625 7
+Solver Output: 7
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 381
 3735213121117373 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 382
 74174352211462671123544 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 383
 471152212446413456166732422 -3
+Solver Output: -3
+Nodes Explored: 148
+Time expended:  0 millieconds
+
+Test Number: 384
 672473313477471617134 -4
+Solver Output: -4
+Nodes Explored: 2425
+Time expended:  1 millieconds
+
+Test Number: 385
 5311255337611367334742767 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 386
 5353262674334367 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 387
 56551242266771566625 6
+Solver Output: 6
+Nodes Explored: 320
+Time expended:  0 millieconds
+
+Test Number: 388
 5611761122133562247367317662 0
+Solver Output: 0
+Nodes Explored: 1563
+Time expended:  1 millieconds
+
+Test Number: 389
 361716714137776256457612 7
+Solver Output: 7
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 390
 271637325162741125576773 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 391
 3152746426444471 9
+Solver Output: 9
+Nodes Explored: 2189
+Time expended:  1 millieconds
+
+Test Number: 392
 653374435673325657462521 -3
+Solver Output: -3
+Nodes Explored: 990
+Time expended:  0 millieconds
+
+Test Number: 393
 154361241147764615124457 3
+Solver Output: 3
+Nodes Explored: 473
+Time expended:  0 millieconds
+
+Test Number: 394
 7766743612626774354641 -4
+Solver Output: -4
+Nodes Explored: 344
+Time expended:  1 millieconds
+
+Test Number: 395
 316375567543424111633 9
+Solver Output: 9
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 396
 6651344713664721127711436 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 397
 62626776455432751522366 8
+Solver Output: 8
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 398
 45444262544751513662162 -4
+Solver Output: -4
+Nodes Explored: 764
+Time expended:  0 millieconds
+
+Test Number: 399
 7777272752336364133166 -6
+Solver Output: -6
+Nodes Explored: 515
+Time expended:  0 millieconds
+
+Test Number: 400
 714113112326566 10
+Solver Output: 10
+Nodes Explored: 274
+Time expended:  0 millieconds
+
+Test Number: 401
 341756577731526635547163374 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 402
 77171776512252216335442132 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 403
 11722576462266212 7
+Solver Output: 7
+Nodes Explored: 1983
+Time expended:  1 millieconds
+
+Test Number: 404
 767552421617771476216 5
+Solver Output: 5
+Nodes Explored: 1586
+Time expended:  0 millieconds
+
+Test Number: 405
 5624757235427647663 11
+Solver Output: 11
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 406
 644473543611775232651511 -7
+Solver Output: -7
+Nodes Explored: 35
+Time expended:  0 millieconds
+
+Test Number: 407
 257173733247526434154567 -7
+Solver Output: -7
+Nodes Explored: 494
+Time expended:  0 millieconds
+
+Test Number: 408
 67354634776576633332241647 -2
+Solver Output: -2
+Nodes Explored: 684
+Time expended:  0 millieconds
+
+Test Number: 409
 532572154726556543121 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 410
 35244633446634337725 10
+Solver Output: 10
+Nodes Explored: 121
+Time expended:  0 millieconds
+
+Test Number: 411
 5454413712571127337531167342 1
+Solver Output: 1
+Nodes Explored: 307
+Time expended:  0 millieconds
+
+Test Number: 412
 522215614743211756565472646 -3
+Solver Output: -3
+Nodes Explored: 163
+Time expended:  0 millieconds
+
+Test Number: 413
 4732351755625162332423553 6
+Solver Output: 6
+Nodes Explored: 78
+Time expended:  0 millieconds
+
+Test Number: 414
 256633151676244167144 10
+Solver Output: 10
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 415
 764554424414753251553326 5
+Solver Output: 5
+Nodes Explored: 55
+Time expended:  0 millieconds
+
+Test Number: 416
 4226116661757364136155573733 3
+Solver Output: 3
+Nodes Explored: 183
+Time expended:  0 millieconds
+
+Test Number: 417
 7415574512365413643162664171 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 418
 3177242763546343557456356 6
+Solver Output: 6
+Nodes Explored: 912
+Time expended:  0 millieconds
+
+Test Number: 419
 72167163255625775222515773 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 420
 522774332373352444327215544 -4
+Solver Output: -4
+Nodes Explored: 45
+Time expended:  0 millieconds
+
+Test Number: 421
 544231711647547 -11
+Solver Output: -11
+Nodes Explored: 2032
+Time expended:  0 millieconds
+
+Test Number: 422
 247245751521276652235 10
+Solver Output: 10
+Nodes Explored: 543
+Time expended:  0 millieconds
+
+Test Number: 423
 1322337722672632644713 5
+Solver Output: 5
+Nodes Explored: 2070
+Time expended:  0 millieconds
+
+Test Number: 424
 6576551771641561711664 -7
+Solver Output: -7
+Nodes Explored: 202
+Time expended:  0 millieconds
+
+Test Number: 425
 65672142226216563 -9
+Solver Output: -9
+Nodes Explored: 399
+Time expended:  0 millieconds
+
+Test Number: 426
 5112717346132321 9
+Solver Output: 9
+Nodes Explored: 639
+Time expended:  0 millieconds
+
+Test Number: 427
 5576756557216531177411466147 2
+Solver Output: 2
+Nodes Explored: 133
+Time expended:  0 millieconds
+
+Test Number: 428
 214347237517627556116725221 -3
+Solver Output: -3
+Nodes Explored: 94
+Time expended:  0 millieconds
+
+Test Number: 429
 7135375113763627325137247522 4
+Solver Output: 4
+Nodes Explored: 83
+Time expended:  0 millieconds
+
+Test Number: 430
 51763673653326673 12
+Solver Output: 12
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 431
 54342553271755531116 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 432
 57232172343423576361372 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 433
 31546724122354155736 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 434
 457244262442456377717 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 435
 1613241156523624733121626632 5
+Solver Output: 5
+Nodes Explored: 19
+Time expended:  0 millieconds
+
+Test Number: 436
 21146623261347736262316521 5
+Solver Output: 5
+Nodes Explored: 44
+Time expended:  0 millieconds
+
+Test Number: 437
 663216754667364144727733 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 438
 35764177225314742723 5
+Solver Output: 5
+Nodes Explored: 2074
+Time expended:  0 millieconds
+
+Test Number: 439
 21762631757232176241251173 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 440
 32726444675447122372436 8
+Solver Output: 8
+Nodes Explored: 63
+Time expended:  0 millieconds
+
+Test Number: 441
 512312223264253653513371756 -2
+Solver Output: -2
+Nodes Explored: 421
+Time expended:  0 millieconds
+
+Test Number: 442
 5744111413176361726724462672 -6
+Solver Output: -6
+Nodes Explored: 223
+Time expended:  0 millieconds
+
+Test Number: 443
 6461131311212576773663 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 444
 32432146551413715126325 -3
+Solver Output: -3
+Nodes Explored: 8875
+Time expended:  3 millieconds
+
+Test Number: 445
 66713424111135136347554532 -2
+Solver Output: -2
+Nodes Explored: 1080
+Time expended:  0 millieconds
+
+Test Number: 446
 6742736217132733 10
+Solver Output: 10
+Nodes Explored: 72
+Time expended:  0 millieconds
+
+Test Number: 447
 4215331623757645116617 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 448
 17762261125547564324 8
+Solver Output: 8
+Nodes Explored: 1274
+Time expended:  0 millieconds
+
+Test Number: 449
 7756225441377734752623655312 -2
+Solver Output: -2
+Nodes Explored: 605
+Time expended:  0 millieconds
+
+Test Number: 450
 543311515517337352275236217 -2
+Solver Output: -2
+Nodes Explored: 177
+Time expended:  0 millieconds
+
+Test Number: 451
 64261777527517311 10
+Solver Output: 10
+Nodes Explored: 130
+Time expended:  0 millieconds
+
+Test Number: 452
 77213446511764261 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 453
 64266616555117511164775 -4
+Solver Output: -4
+Nodes Explored: 222
+Time expended:  0 millieconds
+
+Test Number: 454
 553122252255366416672651617 -2
+Solver Output: -2
+Nodes Explored: 238
+Time expended:  0 millieconds
+
+Test Number: 455
 66661515542276611112254557 2
+Solver Output: 2
+Nodes Explored: 171
+Time expended:  0 millieconds
+
+Test Number: 456
 331472764511463715455277515 -5
+Solver Output: -5
+Nodes Explored: 69
+Time expended:  0 millieconds
+
+Test Number: 457
 5276266432336311 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 458
 3634777116631113471656222762 -2
+Solver Output: -2
+Nodes Explored: 239
+Time expended:  0 millieconds
+
+Test Number: 459
 342437265337624534211662561 2
+Solver Output: 2
+Nodes Explored: 281
+Time expended:  0 millieconds
+
+Test Number: 460
 1122662611655247736 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 461
 26136515766765424111523 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 462
 17671356146161215227733537 7
+Solver Output: 7
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 463
 4223111154732627716212 9
+Solver Output: 9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 464
 1552364512263757 7
+Solver Output: 7
+Nodes Explored: 5471
+Time expended:  1 millieconds
+
+Test Number: 465
 14336633766174161 10
+Solver Output: 10
+Nodes Explored: 891
+Time expended:  0 millieconds
+
+Test Number: 466
 433437441334614 8
+Solver Output: 8
+Nodes Explored: 7992
+Time expended:  2 millieconds
+
+Test Number: 467
 317317561244255535722245 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 468
 1477776334232375 -11
+Solver Output: -11
+Nodes Explored: 56
+Time expended:  0 millieconds
+
+Test Number: 469
 7572273223262531115 9
+Solver Output: 9
+Nodes Explored: 898
+Time expended:  1 millieconds
+
+Test Number: 470
 6111677345545555334 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 471
 57375435352277175347523 6
+Solver Output: 6
+Nodes Explored: 79
+Time expended:  0 millieconds
+
+Test Number: 472
 7114325726256124166 -6
+Solver Output: -6
+Nodes Explored: 989
+Time expended:  0 millieconds
+
+Test Number: 473
 72234371411633364462 6
+Solver Output: 6
+Nodes Explored: 731
+Time expended:  1 millieconds
+
+Test Number: 474
 13547143466133731665 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 475
 217524776745435 -10
+Solver Output: -10
+Nodes Explored: 98
+Time expended:  0 millieconds
+
+Test Number: 476
 37615435621663361154357 4
+Solver Output: 4
+Nodes Explored: 4450
+Time expended:  1 millieconds
+
+Test Number: 477
 6237474463262472731 8
+Solver Output: 8
+Nodes Explored: 368
+Time expended:  1 millieconds
+
+Test Number: 478
 5277261417355252211 10
+Solver Output: 10
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 479
 3515265124717462 11
+Solver Output: 11
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 480
 5331277715432731667457664 -3
+Solver Output: -3
+Nodes Explored: 242
+Time expended:  0 millieconds
+
+Test Number: 481
 1451667413611331645775 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 482
 13265413456751323 -11
+Solver Output: -11
+Nodes Explored: 34
+Time expended:  0 millieconds
+
+Test Number: 483
 241133134334725213 -8
+Solver Output: -8
+Nodes Explored: 225
+Time expended:  0 millieconds
+
+Test Number: 484
 54325455317727725621562 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 485
 3575153777526353227 10
+Solver Output: 10
+Nodes Explored: 42
+Time expended:  0 millieconds
+
+Test Number: 486
 143626614662216777553213134 7
+Solver Output: 7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 487
 571462614461771671477313646 2
+Solver Output: 2
+Nodes Explored: 157
+Time expended:  0 millieconds
+
+Test Number: 488
 364754114166311512427446566 -2
+Solver Output: -2
+Nodes Explored: 281
+Time expended:  0 millieconds
+
+Test Number: 489
 73321467533166666137 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 490
 2371466433575334551674436415 -3
+Solver Output: -3
+Nodes Explored: 140
+Time expended:  0 millieconds
+
+Test Number: 491
 16422175612432135416 -5
+Solver Output: -5
+Nodes Explored: 1220
+Time expended:  0 millieconds
+
+Test Number: 492
 5276443736337666737437 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 493
 6415732265663736331641 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 494
 7264161461137441213767542 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 495
 5623757255162766776425623513 -3
+Solver Output: -3
+Nodes Explored: 201
+Time expended:  1 millieconds
+
+Test Number: 496
 1126375417175373756651144467 -5
+Solver Output: -5
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 497
 77211753742136577534631245 -3
+Solver Output: -3
+Nodes Explored: 862
+Time expended:  0 millieconds
+
+Test Number: 498
 36771452773433127 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 499
 714345541261521311 10
+Solver Output: 10
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 500
 421362276243533114412311574 7
+Solver Output: 7
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 501
 7113237433521353552456541116 -6
+Solver Output: -6
+Nodes Explored: 23
+Time expended:  0 millieconds
+
+Test Number: 502
 4136775761671675515642271144 2
+Solver Output: 2
+Nodes Explored: 408
+Time expended:  0 millieconds
+
+Test Number: 503
 457377456737766126 10
+Solver Output: 10
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 504
 24555664444611472763 9
+Solver Output: 9
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 505
 53257461522564167766157121 -2
+Solver Output: -2
+Nodes Explored: 1171
+Time expended:  1 millieconds
+
+Test Number: 506
 433764567315327323171114572 -1
+Solver Output: -1
+Nodes Explored: 1645
+Time expended:  0 millieconds
+
+Test Number: 507
 51267361661663277771574532 -2
+Solver Output: -2
+Nodes Explored: 316
+Time expended:  0 millieconds
+
+Test Number: 508
 7551717627361611676352263 3
+Solver Output: 3
+Nodes Explored: 1677
+Time expended:  0 millieconds
+
+Test Number: 509
 6541145115562446114635 -4
+Solver Output: -4
+Nodes Explored: 1138
+Time expended:  0 millieconds
+
+Test Number: 510
 1755211422257654226761774571 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 511
 6421345224137146326472335742 -2
+Solver Output: -2
+Nodes Explored: 222
+Time expended:  1 millieconds
+
+Test Number: 512
 1647114453755655641534 -7
+Solver Output: -7
+Nodes Explored: 68
+Time expended:  0 millieconds
+
+Test Number: 513
 4756455314132152114766 7
+Solver Output: 7
+Nodes Explored: 188
+Time expended:  0 millieconds
+
+Test Number: 514
 6171232223263263647766433775 -5
+Solver Output: -5
+Nodes Explored: 61
+Time expended:  0 millieconds
+
+Test Number: 515
 7742177173243762443335224351 2
+Solver Output: 2
+Nodes Explored: 494
+Time expended:  1 millieconds
+
+Test Number: 516
 7152534222742613271 8
+Solver Output: 8
+Nodes Explored: 241
+Time expended:  0 millieconds
+
+Test Number: 517
 561371411431773747752431533 -2
+Solver Output: -2
+Nodes Explored: 157
+Time expended:  0 millieconds
+
+Test Number: 518
 1613336745457756 11
+Solver Output: 11
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 519
 376452474437762 -10
+Solver Output: -10
+Nodes Explored: 1136
+Time expended:  0 millieconds
+
+Test Number: 520
 572476333125525377 -10
+Solver Output: -10
+Nodes Explored: 44
+Time expended:  0 millieconds
+
+Test Number: 521
 3564157743133353261257214 8
+Solver Output: 8
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 522
 1664147135127321477764451272 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 523
 75335564414236666211232 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 524
 4211175776117615372373 -9
+Solver Output: -9
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 525
 77666566242644114474732 -8
+Solver Output: -8
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 526
 522653224431472571 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 527
 24735515347775173271 -8
+Solver Output: -8
+Nodes Explored: 116
+Time expended:  0 millieconds
+
+Test Number: 528
 3546671777347132555762115 -5
+Solver Output: -5
+Nodes Explored: 184
+Time expended:  0 millieconds
+
+Test Number: 529
 2456167667444441767 -9
+Solver Output: -9
+Nodes Explored: 310
+Time expended:  0 millieconds
+
+Test Number: 530
 7424446141735466556 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 531
 51762376556762723757163 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 532
 272116367367375626713236544 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 533
 517727725412156674511725 -5
+Solver Output: -5
+Nodes Explored: 372
+Time expended:  0 millieconds
+
+Test Number: 534
 1663736455263715774243445376 5
+Solver Output: 5
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 535
 5124561255535672776341 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 536
 3754173252344523473261532172 6
+Solver Output: 6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 537
 2576372741222317334632 -8
+Solver Output: -8
+Nodes Explored: 149
+Time expended:  0 millieconds
+
+Test Number: 538
 217377732134276251127132533 -4
+Solver Output: -4
+Nodes Explored: 57
+Time expended:  0 millieconds
+
+Test Number: 539
 661161322773132515125225566 7
+Solver Output: 7
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 540
 7531323267151453753355777462 3
+Solver Output: 3
+Nodes Explored: 167
+Time expended:  0 millieconds
+
+Test Number: 541
 66674351562312313766554 -5
+Solver Output: -5
+Nodes Explored: 403
+Time expended:  0 millieconds
+
+Test Number: 542
 1256763536427165135112651377 2
+Solver Output: 2
+Nodes Explored: 612
+Time expended:  1 millieconds
+
+Test Number: 543
 152117431454445563245653333 2
+Solver Output: 2
+Nodes Explored: 185
+Time expended:  0 millieconds
+
+Test Number: 544
 146712465654377 12
+Solver Output: 12
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 545
 361254223235515273231131755 7
+Solver Output: 7
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 546
 2577337355167475275 6
+Solver Output: 6
+Nodes Explored: 5706
+Time expended:  2 millieconds
+
+Test Number: 547
 161713446625717245765135134 -5
+Solver Output: -5
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 548
 13443751134264653664731463 4
+Solver Output: 4
+Nodes Explored: 148
+Time expended:  0 millieconds
+
+Test Number: 549
 14327547272131721267655331 5
+Solver Output: 5
+Nodes Explored: 294
+Time expended:  1 millieconds
+
+Test Number: 550
 34773631712336641477 -9
+Solver Output: -9
+Nodes Explored: 1179
+Time expended:  0 millieconds
+
+Test Number: 551
 313273421166737347312517621 2
+Solver Output: 2
+Nodes Explored: 1198
+Time expended:  0 millieconds
+
+Test Number: 552
 53766652752315521524333 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 553
 54212234444632567373 9
+Solver Output: 9
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 554
 52226415223772575574314411 2
+Solver Output: 2
+Nodes Explored: 814
+Time expended:  0 millieconds
+
+Test Number: 555
 411556523545533371111767 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 556
 716556436314714221112544 3
+Solver Output: 3
+Nodes Explored: 391
+Time expended:  0 millieconds
+
+Test Number: 557
 3313523455575312474 -9
+Solver Output: -9
+Nodes Explored: 31
+Time expended:  0 millieconds
+
+Test Number: 558
 327121732224331115642317375 3
+Solver Output: 3
+Nodes Explored: 70
+Time expended:  0 millieconds
+
+Test Number: 559
 36713761254416115374 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 560
 52651674611142231145 7
+Solver Output: 7
+Nodes Explored: 579
+Time expended:  0 millieconds
+
+Test Number: 561
 376256261132251421617765761 7
+Solver Output: 7
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 562
 521714634123273 -11
+Solver Output: -11
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 563
 177722237473536662413763 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 564
 273154336762351535 -10
+Solver Output: -10
+Nodes Explored: 38
+Time expended:  0 millieconds
+
+Test Number: 565
 72721732245155361665171 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 566
 1163551237363473212 -10
+Solver Output: -10
+Nodes Explored: 28
+Time expended:  0 millieconds
+
+Test Number: 567
 2233572322143744675323611166 -4
+Solver Output: -4
+Nodes Explored: 108
+Time expended:  0 millieconds
+
+Test Number: 568
 276541411372776625366 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 569
 2233531575313362771 11
+Solver Output: 11
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 570
 52665724323164162516 -5
+Solver Output: -5
+Nodes Explored: 8889
+Time expended:  2 millieconds
+
+Test Number: 571
 5225665336574671 8
+Solver Output: 8
+Nodes Explored: 347
+Time expended:  0 millieconds
+
+Test Number: 572
 557335257742766324 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 573
 112366437245256517762462564 -2
+Solver Output: -2
+Nodes Explored: 1167
+Time expended:  0 millieconds
+
+Test Number: 574
 144642673121471624 9
+Solver Output: 9
+Nodes Explored: 214
+Time expended:  0 millieconds
+
+Test Number: 575
 113566453263222 11
+Solver Output: 11
+Nodes Explored: 93
+Time expended:  0 millieconds
+
+Test Number: 576
 4752664674771127654556761355 3
+Solver Output: 3
+Nodes Explored: 114
+Time expended:  0 millieconds
+
+Test Number: 577
 265446526447452154512137 6
+Solver Output: 6
+Nodes Explored: 146
+Time expended:  0 millieconds
+
+Test Number: 578
 5246172147526627 10
+Solver Output: 10
+Nodes Explored: 1869
+Time expended:  0 millieconds
+
+Test Number: 579
 336732217267712776 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 580
 1344344617745227224757755 6
+Solver Output: 6
+Nodes Explored: 326
+Time expended:  0 millieconds
+
+Test Number: 581
 413132371273463 -8
+Solver Output: -8
+Nodes Explored: 198
+Time expended:  0 millieconds
+
+Test Number: 582
 4545145444217321376122 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 583
 3415321442446226722164 4
+Solver Output: 4
+Nodes Explored: 2614
+Time expended:  1 millieconds
+
+Test Number: 584
 363373362732714 9
+Solver Output: 9
+Nodes Explored: 311
+Time expended:  0 millieconds
+
+Test Number: 585
 7223711312463457742172 -5
+Solver Output: -5
+Nodes Explored: 646
+Time expended:  0 millieconds
+
+Test Number: 586
 1673572253241546735775 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 587
 5253754644476374 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 588
 173255714427275276324255754 -4
+Solver Output: -4
+Nodes Explored: 34
+Time expended:  0 millieconds
+
+Test Number: 589
 3536522112241476625276676473 5
+Solver Output: 5
+Nodes Explored: 28
+Time expended:  0 millieconds
+
+Test Number: 590
 64114656363442233245116161 -2
+Solver Output: -2
+Nodes Explored: 779
+Time expended:  0 millieconds
+
+Test Number: 591
 424176163735723327633527 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 592
 3362743636612356225 -9
+Solver Output: -9
+Nodes Explored: 517
+Time expended:  0 millieconds
+
+Test Number: 593
 5253234266522712654165 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 594
 755532512535461132632226763 2
+Solver Output: 2
+Nodes Explored: 360
+Time expended:  0 millieconds
+
+Test Number: 595
 751743516414567611332265137 6
+Solver Output: 6
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 596
 477653366263777434761512 5
+Solver Output: 5
+Nodes Explored: 191
+Time expended:  0 millieconds
+
+Test Number: 597
 24354567531125445477 10
+Solver Output: 10
+Nodes Explored: 521
+Time expended:  0 millieconds
+
+Test Number: 598
 154466555666554263777 -5
+Solver Output: -5
+Nodes Explored: 1075
+Time expended:  1 millieconds
+
+Test Number: 599
 57421352523331332557157476 6
+Solver Output: 6
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 600
 672166346712134635114 -9
+Solver Output: -9
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 601
 664111771115734446237 6
+Solver Output: 6
+Nodes Explored: 720
+Time expended:  0 millieconds
+
+Test Number: 602
 226534721531414177532225 -6
+Solver Output: -6
+Nodes Explored: 171
+Time expended:  0 millieconds
+
+Test Number: 603
 775173265766431722361 8
+Solver Output: 8
+Nodes Explored: 326
+Time expended:  0 millieconds
+
+Test Number: 604
 345171275732157157573322563 -2
+Solver Output: -2
+Nodes Explored: 362
+Time expended:  0 millieconds
+
+Test Number: 605
 3251242415571254711272 -4
+Solver Output: -4
+Nodes Explored: 1981
+Time expended:  0 millieconds
+
+Test Number: 606
 547547271651712377362 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 607
 616663112446444747 7
+Solver Output: 7
+Nodes Explored: 467
+Time expended:  0 millieconds
+
+Test Number: 608
 577227455155173356147441 -3
+Solver Output: -3
+Nodes Explored: 2266
+Time expended:  0 millieconds
+
+Test Number: 609
 345251445445513233731635164 4
+Solver Output: 4
+Nodes Explored: 49
+Time expended:  0 millieconds
+
+Test Number: 610
 75222132555374626 12
+Solver Output: 12
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 611
 22557137771115142135 -8
+Solver Output: -8
+Nodes Explored: 225
+Time expended:  0 millieconds
+
+Test Number: 612
 13177667515623611132 8
+Solver Output: 8
+Nodes Explored: 242
+Time expended:  0 millieconds
+
+Test Number: 613
 14522765622144274457 -7
+Solver Output: -7
+Nodes Explored: 857
+Time expended:  0 millieconds
+
+Test Number: 614
 67625426656342444254571371 7
+Solver Output: 7
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 615
 624713312775721637 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 616
 734333456723144234465215115 3
+Solver Output: 3
+Nodes Explored: 319
+Time expended:  0 millieconds
+
+Test Number: 617
 77642771625636641471 -10
+Solver Output: -10
+Nodes Explored: 752
+Time expended:  0 millieconds
+
+Test Number: 618
 217347332642415271341 -4
+Solver Output: -4
+Nodes Explored: 3401
+Time expended:  1 millieconds
+
+Test Number: 619
 7772455251222341 10
+Solver Output: 10
+Nodes Explored: 444
+Time expended:  0 millieconds
+
+Test Number: 620
 33664613453264446172142161 2
+Solver Output: 2
+Nodes Explored: 460
+Time expended:  0 millieconds
+
+Test Number: 621
 3373573667612315662134622212 0
+Solver Output: 0
+Nodes Explored: 248
+Time expended:  0 millieconds
+
+Test Number: 622
 1566542376673667757257213 -2
+Solver Output: -2
+Nodes Explored: 1116
+Time expended:  0 millieconds
+
+Test Number: 623
 2676635557525246757177662212 2
+Solver Output: 2
+Nodes Explored: 61
+Time expended:  0 millieconds
+
+Test Number: 624
 623677332537431673 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 625
 2671516611342135 10
+Solver Output: 10
+Nodes Explored: 2519
+Time expended:  1 millieconds
+
+Test Number: 626
 2147134334617577453356 8
+Solver Output: 8
+Nodes Explored: 38
+Time expended:  0 millieconds
+
+Test Number: 627
 7313245346756533254712557 3
+Solver Output: 3
+Nodes Explored: 2809
+Time expended:  1 millieconds
+
+Test Number: 628
 5557417272115455114727 9
+Solver Output: 9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 629
 13711735217413157357376665 -4
+Solver Output: -4
+Nodes Explored: 75
+Time expended:  0 millieconds
+
+Test Number: 630
 26226166136627433115144772 7
+Solver Output: 7
+Nodes Explored: 21
+Time expended:  0 millieconds
+
+Test Number: 631
 6637642476564146317 -9
+Solver Output: -9
+Nodes Explored: 899
+Time expended:  0 millieconds
+
+Test Number: 632
 62153625114652421661517273 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 633
 7354412111344263 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 634
 722546467567573521513 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 635
 4661157527162453 11
+Solver Output: 11
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 636
 22262653716767525527167731 7
+Solver Output: 7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 637
 341264564424372 13
+Solver Output: 13
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 638
 7124356714137472554 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 639
 13551113316167677436 8
+Solver Output: 8
+Nodes Explored: 1200
+Time expended:  0 millieconds
+
+Test Number: 640
 123575222522564511457477767 7
+Solver Output: 7
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 641
 4161341713167472314367264532 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 642
 554231264461461 12
+Solver Output: 12
+Nodes Explored: 1176
+Time expended:  1 millieconds
+
+Test Number: 643
 617567156254322 -11
+Solver Output: -11
+Nodes Explored: 42
+Time expended:  0 millieconds
+
+Test Number: 644
 5321121447277263764 11
+Solver Output: 11
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 645
 7462322732111141233457652 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 646
 77133253243711345215 9
+Solver Output: 9
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 647
 2441725635216363355357275122 -2
+Solver Output: -2
+Nodes Explored: 245
+Time expended:  0 millieconds
+
+Test Number: 648
 6664572674646245244 11
+Solver Output: 11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 649
 2566744121724414714221571 3
+Solver Output: 3
+Nodes Explored: 513
+Time expended:  0 millieconds
+
+Test Number: 650
 2443337161355136341 11
+Solver Output: 11
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 651
 71522676773355714465725241 -6
+Solver Output: -6
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 652
 74315227617225643 11
+Solver Output: 11
+Nodes Explored: 43
+Time expended:  0 millieconds
+
+Test Number: 653
 73312524142277445462 10
+Solver Output: 10
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 654
 517617556211417651554 -5
+Solver Output: -5
+Nodes Explored: 1091
+Time expended:  1 millieconds
+
+Test Number: 655
 57454717232331147 8
+Solver Output: 8
+Nodes Explored: 1390
+Time expended:  0 millieconds
+
+Test Number: 656
 713614717442412137325317734 -2
+Solver Output: -2
+Nodes Explored: 259
+Time expended:  0 millieconds
+
+Test Number: 657
 625713117734351421 9
+Solver Output: 9
+Nodes Explored: 110
+Time expended:  0 millieconds
+
+Test Number: 658
 6623551213612752377432 7
+Solver Output: 7
+Nodes Explored: 28
+Time expended:  0 millieconds
+
+Test Number: 659
 7752364565751166 -10
+Solver Output: -10
+Nodes Explored: 452
+Time expended:  0 millieconds
+
+Test Number: 660
 77126542431321257232 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 661
 77436375115571552576161 7
+Solver Output: 7
+Nodes Explored: 48
+Time expended:  0 millieconds
+
+Test Number: 662
 7565276653324621365353212265 6
+Solver Output: 6
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 663
 75453544445131663365547 4
+Solver Output: 4
+Nodes Explored: 1042
+Time expended:  0 millieconds
+
+Test Number: 664
 33224527265146311 -6
+Solver Output: -6
+Nodes Explored: 2917
+Time expended:  0 millieconds
+
+Test Number: 665
 71317361351132272217255455 5
+Solver Output: 5
+Nodes Explored: 50
+Time expended:  0 millieconds
+
+Test Number: 666
 344354721125245157115 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 667
 4374276463254716664643 -6
+Solver Output: -6
+Nodes Explored: 181
+Time expended:  0 millieconds
+
+Test Number: 668
 376413276517776646542444 -6
+Solver Output: -6
+Nodes Explored: 483
+Time expended:  0 millieconds
+
+Test Number: 669
 674222336513375 12
+Solver Output: 12
+Nodes Explored: 2712
+Time expended:  1 millieconds
+
+Test Number: 670
 17724512714651373611 9
+Solver Output: 9
+Nodes Explored: 37
+Time expended:  0 millieconds
+
+Test Number: 671
 226623272532334354 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 672
 276176536526313172777343 -6
+Solver Output: -6
+Nodes Explored: 88
+Time expended:  0 millieconds
+
+Test Number: 673
 577245537334543347257 -8
+Solver Output: -8
+Nodes Explored: 32
+Time expended:  0 millieconds
+
+Test Number: 674
 72322217727247654333446476 4
+Solver Output: 4
+Nodes Explored: 147
+Time expended:  0 millieconds
+
+Test Number: 675
 37636547733621616127671374 -2
+Solver Output: -2
+Nodes Explored: 372
+Time expended:  0 millieconds
+
+Test Number: 676
 3612256264753176225727753 -2
+Solver Output: -2
+Nodes Explored: 1270
+Time expended:  0 millieconds
+
+Test Number: 677
 145257553442246214 11
+Solver Output: 11
+Nodes Explored: 425
+Time expended:  0 millieconds
+
+Test Number: 678
 4265445646442361221653331772 5
+Solver Output: 5
+Nodes Explored: 32
+Time expended:  0 millieconds
+
+Test Number: 679
 4434373575527312474321641155 -1
+Solver Output: -1
+Nodes Explored: 692
+Time expended:  0 millieconds
+
+Test Number: 680
 7515534152157546223472112 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 681
 245776334746176123325632131 6
+Solver Output: 6
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 682
 33371524332257623544617 5
+Solver Output: 5
+Nodes Explored: 135
+Time expended:  0 millieconds
+
+Test Number: 683
 645512513637161577771462475 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 684
 12241454465775474 9
+Solver Output: 9
+Nodes Explored: 906
+Time expended:  1 millieconds
+
+Test Number: 685
 1161616547345336671 -9
+Solver Output: -9
+Nodes Explored: 32
+Time expended:  0 millieconds
+
+Test Number: 686
 22431664372524575543667744 7
+Solver Output: 7
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 687
 2226414276545723237775 -8
+Solver Output: -8
+Nodes Explored: 417
+Time expended:  0 millieconds
+
+Test Number: 688
 7516546412357477 -10
+Solver Output: -10
+Nodes Explored: 413
+Time expended:  0 millieconds
+
+Test Number: 689
 672613355353347611 10
+Solver Output: 10
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 690
 521646716367411544354 -5
+Solver Output: -5
+Nodes Explored: 911
+Time expended:  0 millieconds
+
+Test Number: 691
 632533564674572731753476 -7
+Solver Output: -7
+Nodes Explored: 34
+Time expended:  0 millieconds
+
+Test Number: 692
 753455366445476755143 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 693
 1421555725144574722173652247 3
+Solver Output: 3
+Nodes Explored: 223
+Time expended:  0 millieconds
+
+Test Number: 694
 27277245444471251642672157 4
+Solver Output: 4
+Nodes Explored: 91
+Time expended:  0 millieconds
+
+Test Number: 695
 5265241244434754575522 9
+Solver Output: 9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 696
 46525676131444756172536 -7
+Solver Output: -7
+Nodes Explored: 113
+Time expended:  0 millieconds
+
+Test Number: 697
 1651733441216275576627 7
+Solver Output: 7
+Nodes Explored: 59
+Time expended:  0 millieconds
+
+Test Number: 698
 67241244174451741277753622 4
+Solver Output: 4
+Nodes Explored: 317
+Time expended:  0 millieconds
+
+Test Number: 699
 637525165742411455563167 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 700
 326147141663613726736774714 3
+Solver Output: 3
+Nodes Explored: 267
+Time expended:  1 millieconds
+
+Test Number: 701
 73456313216733265273265117 2
+Solver Output: 2
+Nodes Explored: 897
+Time expended:  0 millieconds
+
+Test Number: 702
 4135637366661267551771515512 2
+Solver Output: 2
+Nodes Explored: 240
+Time expended:  0 millieconds
+
+Test Number: 703
 36525223274527331635723 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 704
 1122576542614456661624244351 2
+Solver Output: 2
+Nodes Explored: 140
+Time expended:  0 millieconds
+
+Test Number: 705
 23424756747456531 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  1 millieconds
+
+Test Number: 706
 654741534611345 -12
+Solver Output: -12
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 707
 2717653773577466212256 6
+Solver Output: 6
+Nodes Explored: 231
+Time expended:  0 millieconds
+
+Test Number: 708
 43477365443371353 12
+Solver Output: 12
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 709
 545616542547773575442 5
+Solver Output: 5
+Nodes Explored: 5249
+Time expended:  1 millieconds
+
+Test Number: 710
 441312744145346235 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 711
 221451362432617377121 9
+Solver Output: 9
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 712
 147741645214422432173627775 6
+Solver Output: 6
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 713
 35357242167221642 11
+Solver Output: 11
+Nodes Explored: 73
+Time expended:  0 millieconds
+
+Test Number: 714
 2144541476232271277577 -8
+Solver Output: -8
+Nodes Explored: 80
+Time expended:  0 millieconds
+
+Test Number: 715
 6216751351732532336563261655 4
+Solver Output: 4
+Nodes Explored: 43
+Time expended:  0 millieconds
+
+Test Number: 716
 2533423526553766533667615211 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 717
 61474244434575662366673717 2
+Solver Output: 2
+Nodes Explored: 386
+Time expended:  0 millieconds
+
+Test Number: 718
 3421674763333255 11
+Solver Output: 11
+Nodes Explored: 52
+Time expended:  0 millieconds
+
+Test Number: 719
 426536553227213362165557 7
+Solver Output: 7
+Nodes Explored: 155
+Time expended:  0 millieconds
+
+Test Number: 720
 744451443421276226 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 721
 516436557745441644225521271 7
+Solver Output: 7
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 722
 555533546667766635773141271 -5
+Solver Output: -5
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 723
 111164514553513734354773 5
+Solver Output: 5
+Nodes Explored: 346
+Time expended:  1 millieconds
+
+Test Number: 724
 35415111115732572675336534 7
+Solver Output: 7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 725
 47616716753157615561245775 -4
+Solver Output: -4
+Nodes Explored: 147
+Time expended:  0 millieconds
+
+Test Number: 726
 322142755524211641573457 6
+Solver Output: 6
+Nodes Explored: 371
+Time expended:  0 millieconds
+
+Test Number: 727
 25237552414526715775131224 7
+Solver Output: 7
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 728
 1453473531733272765617 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 729
 2252572317223317557445753 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 730
 56122454152523724364725547 7
+Solver Output: 7
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 731
 535467164151421 -11
+Solver Output: -11
+Nodes Explored: 162
+Time expended:  0 millieconds
+
+Test Number: 732
 1364677262162655322673311513 -1
+Solver Output: -1
+Nodes Explored: 384
+Time expended:  0 millieconds
+
+Test Number: 733
 67626776465265232 12
+Solver Output: 12
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 734
 7757527156622416677131642531 4
+Solver Output: 4
+Nodes Explored: 62
+Time expended:  0 millieconds
+
+Test Number: 735
 7333447125532361624535572 3
+Solver Output: 3
+Nodes Explored: 1750
+Time expended:  0 millieconds
+
+Test Number: 736
 2454164425544522736675 -4
+Solver Output: -4
+Nodes Explored: 2414
+Time expended:  1 millieconds
+
+Test Number: 737
 33261434537736635716 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 738
 7432142547346222231515513151 0
+Solver Output: 0
+Nodes Explored: 246
+Time expended:  0 millieconds
+
+Test Number: 739
 4675127745573225625157 6
+Solver Output: 6
+Nodes Explored: 111
+Time expended:  0 millieconds
+
+Test Number: 740
 111115655326363143652773 7
+Solver Output: 7
+Nodes Explored: 29
+Time expended:  0 millieconds
+
+Test Number: 741
 511154572677771551644651467 -3
+Solver Output: -3
+Nodes Explored: 249
+Time expended:  0 millieconds
+
+Test Number: 742
 2563371255665117572172765612 -3
+Solver Output: -3
+Nodes Explored: 138
+Time expended:  0 millieconds
+
+Test Number: 743
 21736626311666711517472 -7
+Solver Output: -7
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 744
 136146337335127327614417752 7
+Solver Output: 7
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 745
 2131667412614717357347 7
+Solver Output: 7
+Nodes Explored: 28
+Time expended:  0 millieconds
+
+Test Number: 746
 17427726661621776567245252 5
+Solver Output: 5
+Nodes Explored: 116
+Time expended:  0 millieconds
+
+Test Number: 747
 26571521643231226667346 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 748
 535422646166267617122741 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 749
 414564413755476416565171651 -4
+Solver Output: -4
+Nodes Explored: 20
+Time expended:  0 millieconds
+
+Test Number: 750
 3672772744355666731766313 7
+Solver Output: 7
+Nodes Explored: 47
+Time expended:  0 millieconds
+
+Test Number: 751
 3411132257227546266556166 4
+Solver Output: 4
+Nodes Explored: 873
+Time expended:  0 millieconds
+
+Test Number: 752
 732666524636173367 9
+Solver Output: 9
+Nodes Explored: 51
+Time expended:  0 millieconds
+
+Test Number: 753
 267547166675566251124423 6
+Solver Output: 6
+Nodes Explored: 545
+Time expended:  0 millieconds
+
+Test Number: 754
 367651555266152453231222744 6
+Solver Output: 6
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 755
 2225253763227756133337741545 -2
+Solver Output: -2
+Nodes Explored: 232
+Time expended:  0 millieconds
+
+Test Number: 756
 4137133456622661563744311 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 757
 57467237474412156634157174 7
+Solver Output: 7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 758
 4613772257673165753573 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 759
 1261311551641437532 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 760
 5111166536726336572632451421 0
+Solver Output: 0
+Nodes Explored: 324
+Time expended:  0 millieconds
+
+Test Number: 761
 774426431223741314777421 -4
+Solver Output: -4
+Nodes Explored: 338
+Time expended:  0 millieconds
+
+Test Number: 762
 12556465335366476562315421 7
+Solver Output: 7
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 763
 566741753132272764 10
+Solver Output: 10
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 764
 3362736637227117376276314 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 765
 7115236526271652216426551775 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 766
 216373413663773763155151 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 767
 75431637525211376 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 768
 2322273274213133375165767475 -6
+Solver Output: -6
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 769
 1135613535517355112 -9
+Solver Output: -9
+Nodes Explored: 331
+Time expended:  0 millieconds
+
+Test Number: 770
 6111157131335545225 10
+Solver Output: 10
+Nodes Explored: 30
+Time expended:  0 millieconds
+
+Test Number: 771
 1324754131623643346267 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 772
 373523343714556564654316566 7
+Solver Output: 7
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 773
 6377647457374114365327213 8
+Solver Output: 8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 774
 73525527141341733414552 7
+Solver Output: 7
+Nodes Explored: 94
+Time expended:  0 millieconds
+
+Test Number: 775
 2751351461572135531466 -4
+Solver Output: -4
+Nodes Explored: 1002
+Time expended:  0 millieconds
+
+Test Number: 776
 133144711341773421377574423 2
+Solver Output: 2
+Nodes Explored: 170
+Time expended:  0 millieconds
+
+Test Number: 777
 64173326636621533473514 9
+Solver Output: 9
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 778
 456747747125215733464656622 7
+Solver Output: 7
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 779
 3232312762165312246177163 -2
+Solver Output: -2
+Nodes Explored: 3759
+Time expended:  1 millieconds
+
+Test Number: 780
 666757655521611346717333 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 781
 3461351116722175215 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 782
 53666447157361752255631136 -2
+Solver Output: -2
+Nodes Explored: 1764
+Time expended:  1 millieconds
+
+Test Number: 783
 12774554217315655217445 7
+Solver Output: 7
+Nodes Explored: 174
+Time expended:  0 millieconds
+
+Test Number: 784
 44772346734124776534 10
+Solver Output: 10
+Nodes Explored: 20
+Time expended:  0 millieconds
+
+Test Number: 785
 1543367266673137776316375254 6
+Solver Output: 6
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 786
 447244351632243334 11
+Solver Output: 11
+Nodes Explored: 362
+Time expended:  0 millieconds
+
+Test Number: 787
 17242214416366261774325 9
+Solver Output: 9
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 788
 5773511211446547317626456765 0
+Solver Output: 0
+Nodes Explored: 1171
+Time expended:  0 millieconds
+
+Test Number: 789
 466664453657452 -10
+Solver Output: -10
+Nodes Explored: 96
+Time expended:  0 millieconds
+
+Test Number: 790
 77744433454147752671323 -3
+Solver Output: -3
+Nodes Explored: 628
+Time expended:  0 millieconds
+
+Test Number: 791
 6466435544362342112322311 4
+Solver Output: 4
+Nodes Explored: 439
+Time expended:  1 millieconds
+
+Test Number: 792
 766534742323443167175 9
+Solver Output: 9
+Nodes Explored: 390
+Time expended:  0 millieconds
+
+Test Number: 793
 4157614217772344727415211 7
+Solver Output: 7
+Nodes Explored: 15
+Time expended:  0 millieconds
+
+Test Number: 794
 2611533213357711667431445462 0
+Solver Output: 0
+Nodes Explored: 530
+Time expended:  0 millieconds
+
+Test Number: 795
 1173324551763447137312663 6
+Solver Output: 6
+Nodes Explored: 62
+Time expended:  0 millieconds
+
+Test Number: 796
 647456727231326517332375212 5
+Solver Output: 5
+Nodes Explored: 74
+Time expended:  0 millieconds
+
+Test Number: 797
 2342123376274217627576713556 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 798
 177362673234275133 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 799
 6723311145345551743351152 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 800
 311125341332521576652566531 7
+Solver Output: 7
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 801
 2556433363141147 8
+Solver Output: 8
+Nodes Explored: 1958
+Time expended:  0 millieconds
+
+Test Number: 802
 57365242212665165422357 -5
+Solver Output: -5
+Nodes Explored: 112
+Time expended:  0 millieconds
+
+Test Number: 803
 3621257217132133436674121756 -3
+Solver Output: -3
+Nodes Explored: 607
+Time expended:  0 millieconds
+
+Test Number: 804
 2232111536166673736435 -4
+Solver Output: -4
+Nodes Explored: 4413
+Time expended:  1 millieconds
+
+Test Number: 805
 77154443732476147255672 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 806
 47121173232217755122617 9
+Solver Output: 9
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 807
 4625634122174336136731243156 1
+Solver Output: 1
+Nodes Explored: 1139
+Time expended:  0 millieconds
+
+Test Number: 808
 1611532633345314556675125 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 809
 3553375116233612526575443461 3
+Solver Output: 3
+Nodes Explored: 125
+Time expended:  0 millieconds
+
+Test Number: 810
 435715521531113376 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 811
 7222737537422231171465333 4
+Solver Output: 4
+Nodes Explored: 813
+Time expended:  0 millieconds
+
+Test Number: 812
 4415165336763761722257622 -7
+Solver Output: -7
+Nodes Explored: 28
+Time expended:  0 millieconds
+
+Test Number: 813
 31543123471557267115613 -4
+Solver Output: -4
+Nodes Explored: 632
+Time expended:  0 millieconds
+
+Test Number: 814
 2214662636662435122733433771 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 815
 4262723744263445526542 4
+Solver Output: 4
+Nodes Explored: 223
+Time expended:  0 millieconds
+
+Test Number: 816
 157611637142263527546 -6
+Solver Output: -6
+Nodes Explored: 126
+Time expended:  0 millieconds
+
+Test Number: 817
 175351216755732723556674163 -2
+Solver Output: -2
+Nodes Explored: 822
+Time expended:  0 millieconds
+
+Test Number: 818
 336332137667773716216714154 2
+Solver Output: 2
+Nodes Explored: 326
+Time expended:  0 millieconds
+
+Test Number: 819
 211216375167233 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 820
 3361322225446776114363365642 2
+Solver Output: 2
+Nodes Explored: 411
+Time expended:  0 millieconds
+
+Test Number: 821
 5711233655332213725 -9
+Solver Output: -9
+Nodes Explored: 381
+Time expended:  0 millieconds
+
+Test Number: 822
 23674433516163237664 -10
+Solver Output: -10
+Nodes Explored: 15
+Time expended:  0 millieconds
+
+Test Number: 823
 6671334512557744523763276371 1
+Solver Output: 1
+Nodes Explored: 313
+Time expended:  0 millieconds
+
+Test Number: 824
 2223126517165142637234346344 -2
+Solver Output: -2
+Nodes Explored: 260
+Time expended:  0 millieconds
+
+Test Number: 825
 216531121131334757723473776 3
+Solver Output: 3
+Nodes Explored: 208
+Time expended:  0 millieconds
+
+Test Number: 826
 75763117231372653422573153 -2
+Solver Output: -2
+Nodes Explored: 1518
+Time expended:  0 millieconds
+
+Test Number: 827
 7541512334327724521115175 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 828
 7425347731631275737656 -7
+Solver Output: -7
+Nodes Explored: 183
+Time expended:  0 millieconds
+
+Test Number: 829
 2355214665734154156 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 830
 461221744512777264564231 -8
+Solver Output: -8
+Nodes Explored: 62
+Time expended:  0 millieconds
+
+Test Number: 831
 3477124244661734722421 9
+Solver Output: 9
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 832
 53561323334131411541275 -7
+Solver Output: -7
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 833
 67565154231311661435157 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 834
 37125411774361363365 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 835
 5333575333755144776414754 7
+Solver Output: 7
+Nodes Explored: 82
+Time expended:  0 millieconds
+
+Test Number: 836
 31254514717622315 12
+Solver Output: 12
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 837
 11654247672623221 -9
+Solver Output: -9
+Nodes Explored: 97
+Time expended:  0 millieconds
+
+Test Number: 838
 775671543363431133461777 8
+Solver Output: 8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 839
 5665177351625735325773723623 6
+Solver Output: 6
+Nodes Explored: 21
+Time expended:  0 millieconds
+
+Test Number: 840
 777423235335313452124117 -8
+Solver Output: -8
+Nodes Explored: 123
+Time expended:  0 millieconds
+
+Test Number: 841
 6662373667117511555163 8
+Solver Output: 8
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 842
 5336515567536661757 -9
+Solver Output: -9
+Nodes Explored: 146
+Time expended:  0 millieconds
+
+Test Number: 843
 6122566136766324417515512342 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 844
 2533147273214231262737 9
+Solver Output: 9
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 845
 26522351555624765223 -9
+Solver Output: -9
+Nodes Explored: 32
+Time expended:  0 millieconds
+
+Test Number: 846
 112642277246275411771336 -3
+Solver Output: -3
+Nodes Explored: 7347
+Time expended:  2 millieconds
+
+Test Number: 847
 33377623244637635747416466 6
+Solver Output: 6
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 848
 41267534421717445 -9
+Solver Output: -9
+Nodes Explored: 1704
+Time expended:  0 millieconds
+
+Test Number: 849
 254334634273746753147635661 6
+Solver Output: 6
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 850
 4443766217677474253165461562 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 851
 77337222616335726616215 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 852
 77343433677455632377455215 -5
+Solver Output: -5
+Nodes Explored: 33
+Time expended:  0 millieconds
+
+Test Number: 853
 5477415742251551523 -7
+Solver Output: -7
+Nodes Explored: 152
+Time expended:  0 millieconds
+
+Test Number: 854
 76116437111737657227 9
+Solver Output: 9
+Nodes Explored: 39
+Time expended:  0 millieconds
+
+Test Number: 855
 7673412551621734412 11
+Solver Output: 11
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 856
 1527325162722556276475714 8
+Solver Output: 8
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 857
 1653153124666157347 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 858
 5134261457637262562 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 859
 212551421742211475327 9
+Solver Output: 9
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 860
 225623723766361271777 -4
+Solver Output: -4
+Nodes Explored: 2256
+Time expended:  1 millieconds
+
+Test Number: 861
 254277677723265661326312 4
+Solver Output: 4
+Nodes Explored: 1338
+Time expended:  0 millieconds
+
+Test Number: 862
 13535226466176614423 -7
+Solver Output: -7
+Nodes Explored: 594
+Time expended:  0 millieconds
+
+Test Number: 863
 77176236733446717513626 9
+Solver Output: 9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 864
 3756531673317451363415 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 865
 1745167132736267 11
+Solver Output: 11
+Nodes Explored: 26
+Time expended:  0 millieconds
+
+Test Number: 866
 7327677525443113 -11
+Solver Output: -11
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 867
 35454445211431716343551 4
+Solver Output: 4
+Nodes Explored: 834
+Time expended:  1 millieconds
+
+Test Number: 868
 411417456742316564462 9
+Solver Output: 9
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 869
 343464717253662622 -6
+Solver Output: -6
+Nodes Explored: 3267
+Time expended:  1 millieconds
+
+Test Number: 870
 7764164264526322665135142415 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 871
 541721536141154 -11
+Solver Output: -11
+Nodes Explored: 52
+Time expended:  0 millieconds
+
+Test Number: 872
 7773271642634551161352572725 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 873
 32257621666513235 -9
+Solver Output: -9
+Nodes Explored: 92
+Time expended:  1 millieconds
+
+Test Number: 874
 11417367627717317556243 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 875
 3515457652224777457422611 4
+Solver Output: 4
+Nodes Explored: 1677
+Time expended:  0 millieconds
+
+Test Number: 876
 456542134214555124715114 3
+Solver Output: 3
+Nodes Explored: 1071
+Time expended:  1 millieconds
+
+Test Number: 877
 621236336676136174245717 -4
+Solver Output: -4
+Nodes Explored: 992
+Time expended:  0 millieconds
+
+Test Number: 878
 34162211522557146212361545 -2
+Solver Output: -2
+Nodes Explored: 372
+Time expended:  0 millieconds
+
+Test Number: 879
 72227751554216272174161 9
+Solver Output: 9
+Nodes Explored: 33
+Time expended:  0 millieconds
+
+Test Number: 880
 32645723231463325344142 9
+Solver Output: 9
+Nodes Explored: 157
+Time expended:  0 millieconds
+
+Test Number: 881
 4571124431732377666537612 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 882
 721431475164363376 11
+Solver Output: 11
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 883
 1533313665516651752566341 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 884
 27144347547476733 -7
+Solver Output: -7
+Nodes Explored: 2118
+Time expended:  1 millieconds
+
+Test Number: 885
 361712152767447771365655 7
+Solver Output: 7
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 886
 776637652534515551766263 -7
+Solver Output: -7
+Nodes Explored: 12
+Time expended:  0 millieconds
+
+Test Number: 887
 512347144257757753413317416 -6
+Solver Output: -6
+Nodes Explored: 86
+Time expended:  0 millieconds
+
+Test Number: 888
 1162376627565673221574613327 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 889
 63145666745611115 -10
+Solver Output: -10
+Nodes Explored: 240
+Time expended:  0 millieconds
+
+Test Number: 890
 534662566232342751727665427 -2
+Solver Output: -2
+Nodes Explored: 307
+Time expended:  0 millieconds
+
+Test Number: 891
 45134313455637732724 10
+Solver Output: 10
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 892
 7731247651336563172376367 -2
+Solver Output: -2
+Nodes Explored: 2117
+Time expended:  0 millieconds
+
+Test Number: 893
 522734277617726235641 -6
+Solver Output: -6
+Nodes Explored: 462
+Time expended:  0 millieconds
+
+Test Number: 894
 134616246614617724 -11
+Solver Output: -11
+Nodes Explored: 1121
+Time expended:  0 millieconds
+
+Test Number: 895
 32632611222525567575676 9
+Solver Output: 9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 896
 635574453246646724427376 -8
+Solver Output: -8
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 897
 6363732265262262413777 7
+Solver Output: 7
+Nodes Explored: 248
+Time expended:  1 millieconds
+
+Test Number: 898
 652144611163241376343667474 7
+Solver Output: 7
+Nodes Explored: 52
+Time expended:  0 millieconds
+
+Test Number: 899
 153347551674611236674165 6
+Solver Output: 6
+Nodes Explored: 140
+Time expended:  0 millieconds
+
+Test Number: 900
 66663775725137665711 9
+Solver Output: 9
+Nodes Explored: 77
+Time expended:  0 millieconds
+
+Test Number: 901
 6541561473766743715117 9
+Solver Output: 9
+Nodes Explored: 10
+Time expended:  0 millieconds
+
+Test Number: 902
 154123667156454 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 903
 216444224124455712251 -4
+Solver Output: -4
+Nodes Explored: 1874
+Time expended:  1 millieconds
+
+Test Number: 904
 6667744167364217437 -5
+Solver Output: -5
+Nodes Explored: 10044
+Time expended:  3 millieconds
+
+Test Number: 905
 3152266211631753653616135277 6
+Solver Output: 6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 906
 22142467137141412644661657 3
+Solver Output: 3
+Nodes Explored: 227
+Time expended:  0 millieconds
+
+Test Number: 907
 3252375311272666113375166 -6
+Solver Output: -6
+Nodes Explored: 345
+Time expended:  0 millieconds
+
+Test Number: 908
 1477541773572554354741542163 6
+Solver Output: 6
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 909
 67123567225773435 -10
+Solver Output: -10
+Nodes Explored: 22
+Time expended:  0 millieconds
+
+Test Number: 910
 133472615253121174 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 911
 3774661251673771372314224434 2
+Solver Output: 2
+Nodes Explored: 506
+Time expended:  0 millieconds
+
+Test Number: 912
 7755152433226743 -9
+Solver Output: -9
+Nodes Explored: 374
+Time expended:  0 millieconds
+
+Test Number: 913
 6332162661224227574 -9
+Solver Output: -9
+Nodes Explored: 879
+Time expended:  0 millieconds
+
+Test Number: 914
 731417655527417472454227 -6
+Solver Output: -6
+Nodes Explored: 97
+Time expended:  0 millieconds
+
+Test Number: 915
 1274217265121632 -7
+Solver Output: -7
+Nodes Explored: 3816
+Time expended:  2 millieconds
+
+Test Number: 916
 1763477647612416161136477 -6
+Solver Output: -6
+Nodes Explored: 28
+Time expended:  1 millieconds
+
+Test Number: 917
 34515545676424551741137711 -7
+Solver Output: -7
+Nodes Explored: 101
+Time expended:  0 millieconds
+
+Test Number: 918
 51411317274526767227 8
+Solver Output: 8
+Nodes Explored: 190
+Time expended:  0 millieconds
+
+Test Number: 919
 742332574244336145634 9
+Solver Output: 9
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 920
 4412761573246247611 -7
+Solver Output: -7
+Nodes Explored: 1156
+Time expended:  0 millieconds
+
+Test Number: 921
 1466612767136176535 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 922
 241121747247532315547252 -4
+Solver Output: -4
+Nodes Explored: 592
+Time expended:  0 millieconds
+
+Test Number: 923
 612315522761627613231632 -3
+Solver Output: -3
+Nodes Explored: 2981
+Time expended:  1 millieconds
+
+Test Number: 924
 125651262247353461763123132 2
+Solver Output: 2
+Nodes Explored: 564
+Time expended:  0 millieconds
+
+Test Number: 925
 5413641775515222476714 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 926
 4237253432636461354512172662 0
+Solver Output: 0
+Nodes Explored: 240
+Time expended:  0 millieconds
+
+Test Number: 927
 1155142165754626536751 -4
+Solver Output: -4
+Nodes Explored: 1001
+Time expended:  0 millieconds
+
+Test Number: 928
 2757761515276177123 6
+Solver Output: 6
+Nodes Explored: 564
+Time expended:  1 millieconds
+
+Test Number: 929
 4115125311277713267 -8
+Solver Output: -8
+Nodes Explored: 230
+Time expended:  0 millieconds
+
+Test Number: 930
 134744672673273443546176 -7
+Solver Output: -7
+Nodes Explored: 35
+Time expended:  0 millieconds
+
+Test Number: 931
 2226577331622757 10
+Solver Output: 10
+Nodes Explored: 117
+Time expended:  0 millieconds
+
+Test Number: 932
 3133546331711116634777 7
+Solver Output: 7
+Nodes Explored: 112
+Time expended:  0 millieconds
+
+Test Number: 933
 52465231247634634622375 -6
+Solver Output: -6
+Nodes Explored: 84
+Time expended:  0 millieconds
+
+Test Number: 934
 5117724521154171 12
+Solver Output: 12
+Nodes Explored: 20
+Time expended:  0 millieconds
+
+Test Number: 935
 42712564553332155562 10
+Solver Output: 10
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 936
 5721347574773416411173 -9
+Solver Output: -9
+Nodes Explored: 166
+Time expended:  0 millieconds
+
+Test Number: 937
 551332315613651311526676 7
+Solver Output: 7
+Nodes Explored: 17
+Time expended:  0 millieconds
+
+Test Number: 938
 711562557711333214 10
+Solver Output: 10
+Nodes Explored: 103
+Time expended:  0 millieconds
+
+Test Number: 939
 665527622642434451 11
+Solver Output: 11
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+Test Number: 940
 3761767232336773372165 4
+Solver Output: 4
+Nodes Explored: 2237
+Time expended:  0 millieconds
+
+Test Number: 941
 62461714444175422257 6
+Solver Output: 6
+Nodes Explored: 418
+Time expended:  1 millieconds
+
+Test Number: 942
 613774314641666673117 -8
+Solver Output: -8
+Nodes Explored: 135
+Time expended:  0 millieconds
+
+Test Number: 943
 162631244462757717424146 8
+Solver Output: 8
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 944
 5451752712445451773647 5
+Solver Output: 5
+Nodes Explored: 3737
+Time expended:  6 millieconds
+
+Test Number: 945
 534662722356656634324 -7
+Solver Output: -7
+Nodes Explored: 70
+Time expended:  0 millieconds
+
+Test Number: 946
 264766532243272572544 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 947
 25753662723523571337647112 2
+Solver Output: 2
+Nodes Explored: 1182
+Time expended:  0 millieconds
+
+Test Number: 948
 6751621654412117147765 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 949
 226724752577175213437 -4
+Solver Output: -4
+Nodes Explored: 1230
+Time expended:  0 millieconds
+
+Test Number: 950
 1344517142267435174155622374 -2
+Solver Output: -2
+Nodes Explored: 1819
+Time expended:  1 millieconds
+
+Test Number: 951
 67135116372752747326647342 -2
+Solver Output: -2
+Nodes Explored: 580
+Time expended:  1 millieconds
+
+Test Number: 952
 7572326676172776346262421141 -4
+Solver Output: -4
+Nodes Explored: 32
+Time expended:  0 millieconds
+
+Test Number: 953
 757141262355112 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 954
 25637756125771566543425 -3
+Solver Output: -3
+Nodes Explored: 3390
+Time expended:  1 millieconds
+
+Test Number: 955
 76511215115574313266 8
+Solver Output: 8
+Nodes Explored: 662
+Time expended:  0 millieconds
+
+Test Number: 956
 71562432157217227727445456 7
+Solver Output: 7
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 957
 114135736237413677 7
+Solver Output: 7
+Nodes Explored: 358
+Time expended:  0 millieconds
+
+Test Number: 958
 5662463656642215777 9
+Solver Output: 9
+Nodes Explored: 626
+Time expended:  0 millieconds
+
+Test Number: 959
 231771652767151334413462244 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 960
 5666713632746723252571565 -2
+Solver Output: -2
+Nodes Explored: 1016
+Time expended:  0 millieconds
+
+Test Number: 961
 2154774463455122166533155663 0
+Solver Output: 0
+Nodes Explored: 673
+Time expended:  0 millieconds
+
+Test Number: 962
 126366612661324273337 10
+Solver Output: 10
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 963
 261327441733411673371 7
+Solver Output: 7
+Nodes Explored: 1212
+Time expended:  0 millieconds
+
+Test Number: 964
 7167437311411213333 -10
+Solver Output: -10
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 965
 5227415126451554412612241547 -3
+Solver Output: -3
+Nodes Explored: 29
+Time expended:  0 millieconds
+
+Test Number: 966
 7112723762211635722163641576 -6
+Solver Output: -6
+Nodes Explored: 60
+Time expended:  0 millieconds
+
+Test Number: 967
 43611164663677764724227435 7
+Solver Output: 7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 968
 7472353337336617515567 8
+Solver Output: 8
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 969
 2575611536142347326253237356 -2
+Solver Output: -2
+Nodes Explored: 298
+Time expended:  0 millieconds
+
+Test Number: 970
 33133773314245422441142112 7
+Solver Output: 7
+Nodes Explored: 7
+Time expended:  0 millieconds
+
+Test Number: 971
 35111365512525776 -9
+Solver Output: -9
+Nodes Explored: 342
+Time expended:  0 millieconds
+
+Test Number: 972
 77616466534574252356643 4
+Solver Output: 4
+Nodes Explored: 813
+Time expended:  1 millieconds
+
+Test Number: 973
 7237732326122427776143663 3
+Solver Output: 3
+Nodes Explored: 1262
+Time expended:  2 millieconds
+
+Test Number: 974
 7342317514154417346162737 6
+Solver Output: 6
+Nodes Explored: 28
+Time expended:  0 millieconds
+
+Test Number: 975
 45525622656517475 -11
+Solver Output: -11
+Nodes Explored: 20
+Time expended:  0 millieconds
+
+Test Number: 976
 77542254755215173 7
+Solver Output: 7
+Nodes Explored: 5632
+Time expended:  0 millieconds
+
+Test Number: 977
 3775374771663276152254425 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 978
 736247452166265361622112 7
+Solver Output: 7
+Nodes Explored: 16
+Time expended:  0 millieconds
+
+Test Number: 979
 6374464441575641266562222 6
+Solver Output: 6
+Nodes Explored: 128
+Time expended:  0 millieconds
+
+Test Number: 980
 74444247177132135367562213 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 981
 434621171764751 -12
+Solver Output: -12
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 982
 7651777173421313 -9
+Solver Output: -9
+Nodes Explored: 377
+Time expended:  0 millieconds
+
+Test Number: 983
 13174371757336513 -11
+Solver Output: -11
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 984
 17621361463476716311236444 -7
+Solver Output: -7
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 985
 71722222423764457464314677 -2
+Solver Output: -2
+Nodes Explored: 546
+Time expended:  1 millieconds
+
+Test Number: 986
 313612153172261 -10
+Solver Output: -10
+Nodes Explored: 659
+Time expended:  0 millieconds
+
+Test Number: 987
 44331226443363465273465216 -4
+Solver Output: -4
+Nodes Explored: 182
+Time expended:  0 millieconds
+
+Test Number: 988
 66235152113534275715561 9
+Solver Output: 9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 989
 1456353371434274417762 9
+Solver Output: 9
+Nodes Explored: 4
+Time expended:  0 millieconds
+
+Test Number: 990
 61315621641715135252 9
+Solver Output: 9
+Nodes Explored: 24
+Time expended:  0 millieconds
+
+Test Number: 991
 4746255531622766222654151346 4
+Solver Output: 4
+Nodes Explored: 73
+Time expended:  0 millieconds
+
+Test Number: 992
 7347317336531344277256 -9
+Solver Output: -9
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 993
 4171555554117612231 11
+Solver Output: 11
+Nodes Explored: 310
+Time expended:  0 millieconds
+
+Test Number: 994
 5351136325551726653466726733 2
+Solver Output: 2
+Nodes Explored: 126
+Time expended:  0 millieconds
+
+Test Number: 995
 7636433414656442425372111717 -6
+Solver Output: -6
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 996
 62456432266617644724517747 -7
+Solver Output: -7
+Nodes Explored: 8
+Time expended:  0 millieconds
+
+Test Number: 997
 2644214766644362774521721 -2
+Solver Output: -2
+Nodes Explored: 7412
+Time expended:  3 millieconds
+
+Test Number: 998
 654372325113652 12
+Solver Output: 12
+Nodes Explored: 14
+Time expended:  0 millieconds
+
+Test Number: 999
 276523473474771362762 7
+Solver Output: 7
+Nodes Explored: 557
+Time expended:  0 millieconds
+
+Test Number: 1000
 536553711753541133152 10
+Solver Output: 10
+Nodes Explored: 9
+Time expended:  0 millieconds
+
+
+All test passed!
+Total Time expended:  398 millieconds

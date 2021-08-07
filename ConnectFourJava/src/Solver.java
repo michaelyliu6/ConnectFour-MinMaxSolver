@@ -1,7 +1,5 @@
-
-
 public class Solver {
-    private int[] colOrder = new int[]{ 3, 2, 4, 1, 5, 0, 6};
+    private int[] colOrder = new int[]{3, 2, 4, 1, 5, 0, 6};
     private int nodeCount = 0;
     private TranspositionTable table;
 
@@ -15,17 +13,22 @@ public class Solver {
     }
 
     public int solve(Board board) {
-        int min = -1 * (42 - board.getNumMoves()) / 2;
-        int max = (48 - board.getNumMoves()) / 2;
+        this.nodeCount = 0; // reset node counter 
 
-        while (min < max) {
+        if (board.canWinNext()) { // check if player can win in the next move (not included in minMax)
+            return (43 - board.getNumMoves()) / 2;
+        }
+        int min = -(42 - board.getNumMoves()) / 2; // starter lower bound
+        int max = (43 - board.getNumMoves()) / 2; // starter upper bound 
+
+        while (min < max) { // iteratively narrow the min-max exploration window (encourages shallow searches)
             int med = min + (max - min) / 2;
             if (med <= 0 && min / 2 < med) {
                 med = min / 2;
             } else if (med >= 0 && max / 2 > med) {
                 med = max / 2;
             }
-            int score = minMax(board, med, med +  1);
+            int score = minMax(board, med, med +  1); // null depth window to get upper/lower bounds
             if (score <= med) {
                 max = score;
             } else {
@@ -33,49 +36,75 @@ public class Solver {
             }
         }
         return min;
-        // return minMax(board, -21, 21);
     }
 
     public int minMax(Board board, int alpha, int beta) {
-        nodeCount++;
+        nodeCount++; // add current node to node counter 
 
-        if (board.getNumMoves() == 42) {
+        long possibleMoves = board.possibleNonLosingMoves();
+        if (possibleMoves == 0) { // check for potential moves
+            return -(42 - board.getNumMoves()) / 2;
+        }
+        if (board.getNumMoves() >= 40) { // check for a tie 
             return 0;
         }
-
-        for (int i = 0; i < 7; i++) {
-            if (board.canPlay(i) && board.isWinningMove(i)) {
-                return (43 - board.getNumMoves())/2;
-            }
-        }
-        int best = (41 - board.getNumMoves()) / 2;
-        int val = table.get(board.key());
-        if (val != 0) {
-            best = val - 19;
-        }
-
-        if (beta > best) {
-            beta = best;
+        int worst = -(40 - board.getNumMoves())/ 2; // lower bound 
+        if (alpha < worst) {
+            alpha = worst;
             if (alpha >= beta) {
-                return beta;
+                return alpha;
             }
         }
 
-        for (int i = 0; i < 7; i++) {
-            if (board.canPlay(colOrder[i])) {
-                Board newboard = board.cloneBoard();
-                newboard.play(colOrder[i]);
-                int score = -1 * (minMax(newboard, -1 * beta, -1 * alpha));
-                if (score >= beta) {
-                    return score;
+        int best = (41 - board.getNumMoves()) / 2; // uppper bound 
+        long key = board.key();
+        int val = table.get(key);
+
+        if (val != 0) {
+            if (val > 37) { // lower bound
+                worst = val - 56;
+                if (alpha < worst) {
+                    alpha = worst;
+                    if (alpha >= beta) {
+                        return alpha;
+                    }
                 }
-                if (score > alpha) {
-                    alpha = score;
+            } else { // upper bound
+                best = val - 19;
+                if (beta > best) {
+                    beta = best;
+                    if (alpha >= beta) {
+                        return beta;
+                    }
                 }
             }
         }
-        table.put(board.key(), alpha + 19);
+
+        Moves moves = new Moves();
+
+        for (int i = 6; i >= 0; i-- ) {
+            long move = possibleMoves & Board.column(colOrder[i]);
+            if (move != 0) {
+                moves.add(move, board.moveScore(move));
+            }
+        }
+
+        long next = moves.next();
+        while (next != 0) {
+            Board newBoard = board.cloneBoard();
+            newBoard.play(next);
+            int score = -minMax(newBoard, -beta, -alpha);
+            if (score >= beta) {
+                table.put(key, score + 56);
+                return score;
+            }
+            if (score > alpha) {
+                alpha = score;
+            }
+            next = moves.next();
+        }
+        table.put(key, alpha + 19); // save an upper bound in the table
         return alpha;
-
     }
+
 }
